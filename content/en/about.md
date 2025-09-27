@@ -4,21 +4,25 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hexi 2077 / justlovemaki
+#### 👋 HeXi 2077 / justlovemaki
 
-> A decade of coding, fingers sometimes chilly 🥶, with a few unsaid thoughts bubbling inside.
-> Then I heard the AI storm brewing ⛈️, and knew I had to jump in and make some waves!
+> Ten years coding, fingers growing cold;
+> A trove of ambition, yet untold.
+> Then the AI storm, a thunderous sound!
+> Now, I'm ready to wrestle the digital clouds, on new ground!
 
 #### 💡 My Code Philosophy
 
-> Technology for the people!
+> Tech should serve the people.
 
-#### ✨ Featured Projects
+#### 🌟 My Top Projects
 
-*   **[Open Source Contribution: CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**: This is a neat AI image generation script built right on Cloudflare Workers.
-*   **[Open Source Contribution: CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**: This platform, powered by Cloudflare Workers, aggregates and generates content. Every single day, it curates the latest in AI — from industry news and sizzling open-source projects to cutting-edge academic papers and insights from top tech influencers.
-*   Want to see more cool stuff? Check out my [GitHub](https://github.com/justlovemaki)!
+*   **[Open Source Project / CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   An AI image generation script, powered by Cloudflare Workers.
+*   **[Open Source Project / CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   A content aggregation and generation platform, powered by Cloudflare Workers. It daily curates the freshest AI insights for you, covering industry news, trending open-source projects, cutting-edge academic papers, and even the latest takes from tech bigwigs on social media.
+*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
 
-#### 🌱 Currently Exploring
+#### 🌱 What I'm Exploring Now
 
-> LLM applications and website SEO are currently what I'm super hyped about! I'm actively diving deep into learning and getting my hands dirty with these topics.
+LLM applications and website SEO? They've got my full attention! I'm super keen and actively deep-diving into learning and getting hands-on.
