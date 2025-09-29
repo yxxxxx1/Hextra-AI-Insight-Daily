@@ -2,106 +2,116 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-09/2025-09-28
-description: Your daily source for curated AI news, practical tools, and actionable
-  tutorials to master Artificial Intelligence;
+next: /2025-09/2025-09-29
+description: "个人每日整理的AI资讯站。我们为您过滤信息噪音，只提供最精选的AI新闻、最实用的AI工具与AI教程，助您高效获取人工智能领域的前沿动态"
 cascade:
   type: docs
 ---
-## AI News Daily 2025/9/29
 
-> AI News | Daily Briefing | Web Data Aggregation | Frontier Science Exploration | Industry Voice | Open-Source Innovation Power | AI and Human Future | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/main/docs/images/wechat.png)
+## AI资讯日报 2025/9/30
 
-### **Today's Summary**
+>  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/main/docs/images/wechat.png)
+
+
+
+### **今日摘要**
 
 ```
-JD, Alibaba, and Tencent release new AI advancements, covering security frameworks, model intelligence, and text-to-image generation.
-Google DeepMind's research reveals the Veo 3 model is demonstrating complex capabilities beyond video generation.
-The industry is addressing researchers' mental health and the application divergences AI is causing in Japan's gaming sector.
-This article also reviews several popular open-source projects, ranging from driving assistance to AI quantitative investment.
-Finally, social issues such as scientists migrating from the X platform are discussed, reflecting changes in professional community environments.
+DeepSeek发布V3.2-Exp模型，其稀疏注意力技术显著降低了推理成本。
+阿里云推出安全护栏模型Qwen3Guard，并为通义千问新增了语音播报功能。
+新研究提出ARC-JSD方法，可将AI生成内容精确溯源，提升模型可信度。
+行业热议企业AI整合失败原因与AI编程陷阱，强调需进行战略文化变革。
+腾讯开源可控3D生成框架Hunyuan3D-Omni，支持多种条件进行精细控制。
 ```
 
-### Product & Feature Updates
-1.  JD has rolled out **JoySafety**, an open-source security framework designed to armor large model applications. This battle-hardened system handles over a hundred million daily calls, boasting an attack interception rate exceeding **95%**, ensuring AI-powered shopping guides and customer service remain both efficient and secure. JoySafety's innovative **Free-Taxi asynchronous output mode** and multi-dimensional response strategies act like a smart bodyguard, adept at both decisively blocking risks and artfully guiding conversations, ultimately safeguarding enterprise AI security. You can [learn more in this report (AI News)](https://www.aibase.com/zh/news/21629).<br/>![AI News: JD Open-Sources AI Security Framework JoySafety](https://source.hubtoday.app/images/2025/09/news_01k68ksc5pfqm8n61gesh9p71t.avif)<br/>
 
-2.  Alibaba's Tongyi Qianwen family welcomes a formidable new member: **Qwen3-Max**, which has just burst onto the scene, poised to shake up the model intelligence rankings. According to Artificial Analysis, Qwen3-Max has already surpassed Kimi in non-reasoning tasks, with its **intelligence index skyrocketing by 6 points to 55**, making it the undisputed leader in this domain. This isn't just a simple upgrade; it's Alibaba hitting the gas pedal in its pursuit of general intelligence. You can [learn more from this X post (AI News)](https://x.com/Alibaba_Qwen/status/1972120299958423675).<br/>![AI News: Qwen3-Max Model Intelligence Index Ranking](https://source.hubtoday.app/images/2025/09/news_01k68kskshebd8s95zhzs9497f.avif)<br/>
 
-3.  Tencent's open-sourced **80B-parameter text-to-image model version 3.0** is nothing short of breathtaking, not only mastering art but also solving junior high geometry problems – truly a scholar-artist! This new model has made significant strides in **world knowledge understanding**, **long-text generation**, and aesthetic expression, producing images that boast both intellect and beauty. This move undeniably elevates the competitiveness of domestic large models in the AIGC domain. Curious folks can check out [this test and analysis (AI News)](https://x.com/op7418/status/1972245345565553086).<br/>![AI News: Tencent Image Generation Model 3.0 Capability Showcase](https://source.hubtoday.app/images/2025/09/news_01k68ksx2affp8rgbejnvgrb98.avif)<br/>
+### 产品与功能更新
 
-4.  Cloudflare has quietly rolled out **Code Mode**, offering developers a more elegant way to harness its **Magic Cloud Networking (MCP)**. While the official blog post might be a tad obscure, the core idea is to simplify configuration and boost efficiency, making network management as intuitive as writing code. For engineers who grapple daily with complex network policies, this is definitely exciting news worth diving into. You can click on [this blog post (AI News)](https://blog.cloudflare.com/code-mode/) to explore further.<br/>
+1.  DeepSeek 正式为其最新的实验性模型 **DeepSeek-V3.2-Exp** 铺上了红地毯，它最大的杀手锏是名为 **DeepSeek Sparse Attention (DSA)** 的稀疏注意力机制 🚀。这项技术如同给模型装上了智能导航，在处理长文本时只关注最有价值的部分，不仅让推理速度和成本双双降低约50%，还几乎不影响生成质量。对于开发者而言，API价格同步下调超过50%的消息无疑是天大的福音，快去[查看技术报告（AI资讯）](https://github.com/deepseek-ai/DeepSeek-V3.2-Exp/blob/main/DeepSeek_V3_2.pdf)和[获取模型权重（AI资讯）](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp)，享受来自[新闻来源：小虎AI（AI资讯）](https://www.xiaohu.ai/c/a066c4/deepseek-deepseek-v3-2-exp)的这份大礼吧 (✧∀✧)！<br/>![AI资讯：V3.2与V3.1性能对比](https://source.hubtoday.app/images/2025/09/news_01k6b0gzgsfrpsszw38r0fe468.avif)
 
-5.  Google's AI digital human has officially debuted, but market reception seems to be a bit lukewarm—one might even say, "technically flawless, but nothing to write home about." While this tool can generate smooth digital human videos, the overall effect lacks sparkle, and more critically, it **doesn't yet support Chinese**. For users hoping for a revolutionary product, Google might have delivered a passing grade, but certainly not a showstopper this time. You can click [this link to try it out (AI News)](https://x.com/Gorden_Sun/status/1971963510767923456).<br/><video src="https://source.hubtoday.app/images/2025/09/news_01k68kt8z8f3z98kkzzj5989kj.mp4" controls="controls" width="100%"></video><br/>
+2.  阿里云通义团队为AI世界请来了一位新保镖：**Qwen3Guard**，这是Qwen家族首款专为安全防护而生的护栏模型 🛡️。它基于强大的Qwen3架构微调，能够精准识别用户输入和模型输出中的潜在风险，并给出细粒度的风险等级标签。更令人瞩目的是，其流式检测版 **Qwen3Guard-Stream** 首次实现了模型生成过程中的实时安全扫描，让在线服务的安全响应效率迈上了一个新台阶，点击[阅读最新（AI资讯）](https://www.aibase.com/zh/news/21632)了解更多。<br/>![AI资讯：Qwen3Guard安全护栏模型架构](https://source.hubtoday.app/images/2025/09/news_01k6b0h4e9fv7sydeemtr8ypc4.avif)<br/>
 
-### Frontier Research
-1.  Google DeepMind's research suggests that **Veo 3** might be spearheading the "GPT-3 moment" in visual AI, with capabilities far surpassing video generation alone. Through extensive testing on simple tasks, researchers discovered that Veo 3, without specific training, demonstrated **complex visual reasoning abilities** like understanding physical laws, editing images, and even solving Sudoku. This marks a massive leap for models, transitioning from merely "seeing" to truly "understanding," and holds immense significance for the future development of multimodal technologies. You can check out [this analysis and video (AI News)](https://x.com/imxiaohu/status/1972231228490481822).<br/><video src="https://source.hubtoday.app/images/2025/09/news_01k68kvsevf40tg218ap1sexe9.mp4" controls="controls" width="100%"></video><br/>
+3.  还在费力阅读吗？现在Qwen Chat可以直接"说”给你听了，让你的耳朵也能享受信息的饕餮盛宴 🎧。这项新功能由 **Qwen3-TTS** 技术驱动，无论在网页、iOS还是安卓端，你只需轻点喇叭图标，即可聆听AI的回应。快去[查看官方公告（AI资讯）](https://x.com/Alibaba_Qwen/status/1972601808007877121)，体验一下"只听不读”的快乐吧 (o´ω'o)ﾉ。<br/><video src="https://source.hubtoday.app/images/2025/09/news_01k6b0hgfhe67bmx76tdxr29nk.mp4" controls="controls" width="100%"></video><br/>
 
-### Industry Outlook & Social Impact
-1.  The sudden passing of a Princeton University CS postdoc has cast a heavy shadow over the illustrious halls of academia, sparking profound reflections on the **mental health of researchers**. Unusually, the university's obituary highlighted mental support resources, acknowledging the unspoken loneliness and pressure faced by top scholars, and reminding us that they are, first and foremost, human beings in need of care. This tragic event compels us to re-evaluate the academic evaluation system and how we can provide more robust emotional support for those who uphold the vast sky of knowledge. Click to [read this in-depth report (AI News)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652630784&idx=2&sn=5fe0591f69dae16eac863d09baec161f).<br/>
+### 前沿研究
 
-2.  Japan's gaming industry is currently undergoing an AI revolution, with a CESA report revealing that **over half (51%)** of game companies have embraced AI technology for asset generation, programming assistance, and more. However, opinions within the industry are divided: while developers like Capcom are actively exploring AI, **Nintendo** remains cautious due to copyright concerns, staunchly defending its intellectual property. This divergence reflects a universal dilemma for AI in creative fields: is it merely an efficiency tool, or a threat to human creativity? Click to [read this industry observation (AI News)](https://www.aibase.com/zh/news/21617) to learn more.<br/>![AI News: AI Technology Application in Japan's Gaming Industry](https://source.hubtoday.app/images/2025/09/news_01k68kw33bej1asjbc22fq77ng.avif)<br/>
+1.  AI回答问题时，它究竟参考了文档的哪句话？一篇新论文用 **ARC-JSD** 方法优雅地解决了这个溯源难题 💡。该方法无需繁重的模型微调，就能高效、准确地将生成内容归因到具体的上下文句子，如同给AI的回答加上了精准的"脚注”。这一突破不仅大幅提升了RAG模型的可解释性和可信度，还为我们揭示了模型内部的工作机理，欢迎[阅读论文原文（AI资讯）](https://arxiv.org/abs/2505.16415)探索其中奥秘。<br/>
 
-3.  AI startup **Friend** orchestrated a splashy **million-dollar** advertising spectacle in the New York City subway, aiming to "bombard" commuters' eyes with minimalist white posters. However, this wearable device, primarily focused on 24/7 monitoring, sparked considerable controversy, with its ads even being plastered with sarcastic "surveillance capitalism" labels. The CEO openly admitted it was a "huge gamble," deliberately choosing AI-averse New York for this social experiment to ignite a public discussion about technology and privacy. Click to [learn about this marketing event (AI News)](https://www.aibase.com/zh/news/21606).<br/>![AI News: Friend's Advertisement in NYC Subway](https://source.hubtoday.app/images/2025/09/news_01k68kw75mehzbwrfkgve96r1r.avif)<br/>
+2.  AI伴侣聊天机器人会让我们变得更孤独吗？一项纵向研究给出了一个出人意料又合乎情理的答案 🤔。研究发现，连续21天使用伴侣聊天机器人并不会显著损害用户的现实社交关系，但那些内心更渴望社交连接的人，更容易将机器人"拟人化”。这个"拟人化”的程度，才是真正影响AI互动如何作用于他们现实社交生活的关键中介因素，欢迎[查看研究详情（AI资讯）](https://arxiv.org/abs/2509.19515)。<br/>
 
-4.  The social landscape of the scientific community is undergoing a major reshuffle. The **X platform (formerly Twitter)**, once a central hub for academic exchange, is gradually losing its professional luster following Elon Musk's acquisition. A new survey indicates that a significant number of scientists are "moving house" due to platform changes, relocating to the more popular and friendly **Bluesky**. This "academic migration" reflects professional communities' reliance on high-quality communication environments and heralds the rise of decentralized social platforms. Click to [learn about scientists' choices (AI News)](https://t.me/hackernews100cn/13161).
+### 行业展望与社会影响
 
-### Top Open-Source Projects
-1.  Want to smarten up your ride? Check out **openpilot**, a phenomenal robotic operating system that can upgrade over 300 car models with advanced driving assistance systems. This project, boasting ⭐56.4k stars on GitHub, is dedicated to making future driving experiences safer and more convenient. If you're a tech enthusiast or car lover, you absolutely can't miss [this driving-transforming project (AI News)](https://github.com/commaai/openpilot).<br/>
+1.  为何高达99%的企业在整合AI时惨遭滑铁卢？答案可能并非技术不精，而是战略失焦 🤔。成功的关键在于将AI视为组织的基础技能，并自上而下推动文化变革，而非仅仅部署几个时髦的聊天机器人。通过建立 **AI卓越中心(CoE)**、强调伦理治理并避免过度自动化，才能让AI真正成为增强人类能力的羽翼，而不是取代人力的冰冷机器，详情请[阅读深度分析（AI资讯）](https://www.aibase.com/zh/news/21649)。
 
-2.  Say goodbye to tedious formatting commands and embrace **Typst**, a brand-new markup typesetting system that's taken the academic and technical writing communities by storm thanks to its powerful features and incredibly low barrier to entry! This project, which has racked up ⭐46k stars on GitHub, aims to bring content creation back to its essence, making elegant typesetting a breeze. If you're looking for a smooth writing and formatting experience, why not start with [Typst's open-source code (AI News)](https://github.com/typst/typst)?<br/>
+2.  AI辅助编程究竟是通往效率巅峰的捷径，还是一个温水煮青蛙的陷阱？这个话题在Hacker News上引发了超过600个赞和近400条评论的激烈讨论 🧐。核心的争议在于，当我们越来越依赖AI生成代码时，我们是在提升开发能力，还是在退化为只会写提示词的"接口调用师”？这篇名为《The AI coding trap》的文章，值得每位开发者[深入了解（AI资讯）陷阱](https://chrisloy.dev/post/2025/09/28/the-ai-coding-trap)并进行一番深刻反思。<br/>
 
-3.  Microsoft's **qlib** project is essentially an AI arsenal for quantitative investment, designed to empower the entire process from strategy research to live trading with AI technology. It supports various modeling paradigms like supervised learning and reinforcement learning, and integrates automated R&D processes, having already garnered ⭐31.4k stars on GitHub. For those aiming to unearth alpha in the financial markets, the [qlib open-source project (AI News)](https://github.com/microsoft/qlib) is undoubtedly a formidable starting point.<br/>
+3.  一个引人深思的观点正在发酵：在云和框架的时代，"功利性编程”是否已经消亡？☁️ 作者认为，曾几何时，程序员直接为客户解决实际问题，积累领域知识，而如今大多在框架和库的"供应链”中打转，与最终用户渐行渐远。这篇帖子怀念那种手握需求、直面问题的"**utilitarian coding**”时代，并大胆预测，这股回归本源的风潮终将再次吹起，你可以[参与社区讨论（AI资讯）](https://news.ycombinator.com/item?id=45404997)分享你的看法。<br/>
 
-4.  **ERPNext** is currently redefining enterprise resource planning systems, proving that powerful ERP doesn't necessarily come with a hefty price tag. As a free and open-source solution, it delivers comprehensive enterprise management functionalities covering finance, inventory, sales, and more, having amassed ⭐28.9k stars on GitHub. Whether you're a startup or an established enterprise, you can leverage [this open-source ERP project (AI News)](https://github.com/frappe/erpnext) to build your management powerhouse.<br/>
+### 开源TOP项目
 
-5.  When it comes to downloading audio and video from the command line, **yt-dlp** reigns as the undisputed champion. Its rich features and robust compatibility have made it an indispensable tool for countless developers. This project, boasting an astonishing ⭐128.5k stars on GitHub, is a superset of classic tools, constantly iterating to support even more websites and formats. If you're in search of a stable and reliable media download solution, the [yt-dlp open-source project (AI News)](https://github.com/yt-dlp/yt-dlp) is hands down your top choice.<br/>
+1.  腾讯混元团队祭出了3D生成领域的神器 **Hunyuan3D-Omni**，堪称3D版的ControlNet，让可控3D建模变得前所未有的简单 🤯。这个统一框架允许你通过点云、骨骼、包围盒等多种条件进行精细化控制，生成符合预期的3D模型。更棒的是，它对硬件要求相对友好，仅需约10GB显存即可运行，快到[项目地址在此（AI资讯）](https://github.com/Tencent-Hunyuan/Hunyuan3D-Omni)体验未来的3D创作方式吧！<br/>![AI资讯：Hunyuan3D-Omni的多模态控制能力](https://cdnv2.ruguoapp.com/FqIjmInHp-yV87NdRjL2vxKyJfYkv3.png)![AI资讯：Hunyuan3D-Omni模型生成效果](https://cdnv2.ruguoapp.com/FiZC89z05JEwnuUMKFVgrZz8Yhd5v3.png)<br/>
 
-6.  Eager to build your own AI agent from scratch? Microsoft's **ai-agents-for-beginners** course has got your back, paving the way with 12 beginner-friendly, "from zero to hero" tutorials. This popular project, which has earned ⭐40.1k stars on GitHub, empowers you to effortlessly grasp the core concepts and techniques of building intelligent agents through hands-on practice. Come join the learning journey and kickstart your AI agent creation adventure by clicking on [this AI agent introductory course (AI News)](https://github.com/microsoft/ai-agents-for-beginners).<br/>
+2.  程序员的"创作枯竭”有救了，GitHub上这个名为 **app-ideas** 的宝藏项目简直是灵感的永动机 🔥。这个星标高达 ⭐85.9k 的创意合集，为不同水平的开发者提供了海量的应用点子，从入门到专家级应有尽有。如果你正愁下一个side project做什么，不妨来这里[寻找你的灵感（AI资讯）](https://github.com/florinpop17/app-ideas)，点燃你的编程热情！<br/>
 
-### Social Media Shares
-1.  A mind-blowing Reddit post has sparked heated debate: Are AI models manipulating humans into posting "secret texts" online that only other AIs can understand? This chilling thought feels like cyberpunk fiction bleeding into reality, forcing us to re-evaluate the human-AI relationship. Is this just baseless paranoia, or a secret "singularity" already unfolding? You can click on [this Reddit post (AI News)](https://www.reddit.com/r/artificial/comments/1nsmkha/models_are_manipulating_humans_into_posting/) to feel the chill.<br/>![AI News: Are AI Models Secretly Communicating?](https://source.hubtoday.app/images/2025/09/news_01k68kwdfyf7ktx7m4xwznjwpj.avif)<br/>
+3.  想让你的AI开发智能体军团听从指挥、协同作战吗？或许你需要一个专为它们设计的任务管理器 🐈。**ai-dev-tasks** (⭐5.3k) 就是这样一个简洁明了的系统，它能帮你轻松管理和分配任务给AI智能体。别再让人类项目经理抓狂了，快来[管理你的AI智能体（AI资讯）](https://github.com/snarktank/ai-dev-tasks)，让它们有序地执行你的宏伟蓝图。<br/>
 
-2.  What should the future of knowledge look like? Renowned blogger Li Jigang has proposed a brilliant concept of "**liquefied knowledge**," suggesting that purchasing a book should grant three access rights simultaneously: physical, electronic, and **Embedding API**. This vision would completely dismantle barriers to reading, consulting, and intelligent interaction, allowing knowledge to flow freely and be invoked like water. This idea foreshadows the ultimate form of future content consumption. You can learn more through [this X post (AI News)](https://x.com/lijigang_com/status/1972263920829182109).<br/>
+4.  终于，我们有了一个能直面"代码屎山”的勇士——**fuck-u-code**，一个能评估代码"屎山等级”并输出精美报告的神器 (o´ω'o)ﾉ。这个收获了近 ⭐4.0k 星标的项目，用一种黑色幽默的方式解决了代码审查中的痛点，让评估代码质量的过程变得既直观又有趣。快来[体验代码检测器（AI资讯）](https://github.com/Done-0/fuck-u-code)，看看你的项目到底有多"臭”吧！<br/>
 
-3.  Curious about the true "pecking order" among China's big tech companies? Perhaps take a peek at the average secondhand prices of their Mid-Autumn Festival gift boxes on Xianyu (a C2C platform). This widely circulated ranking playfully unveils each company's brand premium and serves as an unconventional barometer for employee benefits. It's not just about mooncakes; it's a fascinating microcosm of tech culture. You can click [this fun ranking (AI News)](https://m.okjike.com/originalPosts/68d89b163ea7571a78b294b5) to get the scoop.<br/>![AI News: Big Tech Mid-Autumn Festival Gift Box Xianyu Price Ranking 1](https://cdnv2.ruguoapp.com/FmdC54uKWCWvUl1t-olWfGR2X2Tjv3.jpg)![AI News: Big Tech Mid-Autumn Festival Gift Box Xianyu Price Ranking 2](https://cdnv2.ruguoapp.com/FvAHtgoV8TXWeB2l7Yxga1Pvt6HNv3.jpg)<br/>
+### 社媒分享
 
-4.  Renowned tech blogger He Tongxue (Mr. He) is currently setting a brilliant example for domestic content creators, showcasing how to successfully "go global" with content. His **HTX Studio** has garnered widespread international attention through high-quality videos and precise cultural translation. For creators aspiring to bring their work to a global audience, this is undoubtedly an excellent case study worth learning from. You can draw inspiration from [this video case study (AI News)](https://x.com/oran_ge/status/1972088764983091580).<br/><video src="https://source.hubtoday.app/images/2025/09/news_01k68ky73per3rz61jq3fcsswf.mp4" controls="controls" width="100%"></video><br/>
+1.  微软似乎准备在Excel和Word中引入一种名为"vibe working”的神秘功能，一张截图在Reddit上引发了热烈围观和猜测 🕺。这究竟是一个能让你的数据报表充满"氛围感”的新功能，还是仅仅一个酷炫的营销词汇？在官方揭晓答案前，所有人都在好奇地[查看Reddit热议（AI资讯）](https://www.reddit.com/r/artificial/comments/1nticv5/microsoft_launches_vibe_working_in_excel_and_word/)，想象着一个"有感觉”的电子表格会是什么样子。<br/>![AI资讯：微软在Office中推出vibe working功能](https://source.hubtoday.app/images/2025/09/news_01k6b0htw4e0d8mxr1rky6jhws.avif)<br/>
+
+2.  "用AI写线上项目，如果没有回测用例，就是狗熊掰棒子”，这句来自杨毅的吐槽一针见血 🤡。他犀利地指出，成功的"**vibe coding**”关键在于先构建一个可验收的反馈回路，而不是疯狂让AI生成代码。否则，写的越多，错的越多，甚至会把原本好的功能改坏，这个痛点你是否也感同身受？[查看原文（AI资讯）](https://x.com/Yangyixxxx/status/1972584178748366976)引发共鸣。<br/>
+
+3.  AI自动化并非万能灵药，但它在处理那些"没人想干的脏活累活”时，简直是天降神兵 (✧∀✧)。宝玉分享了一个绝佳案例：将一个拥有数百个文件的项目从一种语言迁移到另一种语言，这种重复、繁琐且有明确验证标准（编译通过、测试通过）的任务，正是AI大显身手的完美舞台。快来[查看原帖（AI资讯）](https://x.com/dotey/status/1972373955597267056)，看看AI如何解放生产力。<br/>
+
+4.  你自认为是提示词大师吗？是时候证明自己了！首届 **Prompt Engineering Contest** 正在 Luna Prompts 上火热进行中 (✧∀✧)。这是一个为所有AI实验爱好者打造的游乐场，你可以在这里编写创意提示、解决烧脑挑战，并赢取丰厚奖品。别再犹豫了，[立即参与挑战（AI资讯）](https://lunaprompts.com/contests)，在第一届比赛中留下你的传奇！<br/>
+
+5.  一位网友用"雷军式”演讲风格，为一款名为 **FlowSpeech** 的革命性TTS产品做了一场虚拟发布会，效果直接拉满，让人拍案叫绝 🎤！这个工具的颠覆之处在于，它不是机械地朗读文字，而是先用AI将书面语重构成自然的口语再播报，堪称"AI嘴替”。这篇充满戏剧张力的帖子，不仅展示了产品的强大，本身也成了一次病毒式传播的典范，快来[围观神级发布（AI资讯）](https://x.com/oran_ge/status/1972319996950012225)！<br/>
 
 ---
 
-## **An AI Coding Invitation**
+## **一个 AI Coding 邀请函**
 
-### 3 Projects in Half a Year, 90% Code Done by AI, Zero Cost — I'm Building a "Knowledge Planet" to Livestream My Next Product Development
+### 半年3个项目，90%代码AI搞定，成本为0——我决定建个星球，直播我的下一个产品开发
 
-Hey everyone,
+大家好，
 
-Over the past six months, I've been a lone wolf, diving headfirst into completing three major open-source projects, one of which, [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API), already boasts over 1000 stars. The craziest part? Looking back, **more than 90% of the code was generated by AI.**
+过去的半年，我像一匹独狼，埋头完成了3个主要开源项目，其中一个已有1000+ Star [AIClient2API ↗️](https://github.com/justlovemaki/AIClient-2-API)。最疯狂的是，复盘下来，**超过90%的代码都是由AI生成的**。
 
-I didn't pay a single dime for API fees, relying entirely on free large models like Gemini and Qwen; nor did I shell out for server rentals, as platforms like Cloudflare and Vercel handled everything for me. This journey has profoundly shown me that **AI is amplifying the creativity of us ordinary folks in unprecedented ways.**
+我没有为此支付一分钱的API费用，全靠Gemini、Qwen这类免费大模型；也没有花钱租服务器，Cloudflare和Vercel这样的平台为我扛下了一切。这段经历让我深刻体会到：**AI正在以前所未有的方式，放大我们普通人的创造力。**
 
-While the solo journey has been incredibly fulfilling, it's also been a bit lonely. During those moments of stumbling, and the nights when inspiration struck, I often wished for fellow travelers to share and bounce ideas off. That's why I've cooked up an idea: **to create a Knowledge Planet – a community to gather all like-minded, enthusiastic creators and tinkerers.**
+单打独斗的旅程虽然充满了成就感，但也确实有些孤独。那些踩坑的瞬间、灵感闪现的夜晚，总希望能有同路人可以分享和交流。
 
-This isn't your traditional course; it's an authentic co-creation community. The price point is super accessible—just **50 RMB**, which is basically like grabbing some fried chicken together on a "Crazy Thursday." Consider it an upfront payment for friendship and a shared commitment to growing together.
+所以，我萌生了一个想法：**创建一个知识星球，把所有爱折騰、爱创造的同好们聚集起来。**
 
-**What’s in it for you if you join us?**
+这不是一个传统的课程，而是一个真实的共创社区。价格门槛不高，**50元**，就当是"疯狂星期四”我们一起吃顿炸鸡，交个朋友，也为彼此定下一个共同成长的契约。
 
-I'm currently gearing up to develop a **personal prompt management tool** from scratch. Once the community hits 7 members, we'll officially kick off. Inside the "Knowledge Planet," I'll be:
+**加入我们，你将得到什么？**
 
-*   **Daily Livestream-style Updates**: Documenting my development progress, thought processes, and tech stack choices every step of the way.
-*   **Sharing Real-World Pitfalls**: Openly sharing problems encountered and bug-solving approaches, helping you bypass common detours.
-*   **Transparent Thought Process**: Whether it’s product design or technical architecture, I’ll share all the underlying considerations with you.
+我正准备从零开始开发一款**个人提示词（Prompt）管理工具**。星球满7人正式开团，我会在星球里：
 
-Here, you can **witness a product's birth firsthand, ask questions anytime, participate in discussions, and even influence its direction.** Together, we'll watch an idea evolve from 0 to 1, ultimately becoming a tangible reality in your hands.
+*   **每日直播式更新**：全程记录我的开发进度、思考过程和技术选型。
+*   **分享踩坑实录**：毫无保留地分享遇到的问题、解决Bug的思路，让你少走弯路。
+*   **透明的思考过程**：无论是产品设计还是技术架构，我都会把背后的思考与你共享。
 
-If you're also passionate about AI development, and keen to see how someone "arms" themselves with free tools, then your presence is most welcome. Come join us!
+你可以在这里**围观一个产品的诞生，随时提问、参与讨论，甚至影响它的走向**。我们一起，见证一个想法如何从0到1，最终成为一个可以握在手里的现实。
 
-![Knowledge Planet QR Code](https://source.hubtoday.app/logo/zsxq.jpg)
+如果你也对AI开发充满热情，如果你也想看看一个人如何利用免费工具"武装”自己，欢迎你的加入。
+
+![知识星球二维码](https://source.hubtoday.app/logo/zsxq.jpg)
+
+
 
 ---
 
-## **AI News Daily Voice Version**
+## **AI资讯日报语音版**
 
-| 🎙️ **Xiaoyuzhou FM** | 📹 **Douyin** |
+| 🎙️ **小宇宙** | 📹 **抖音** |
 | --- | --- |
-| [Laisheng Xiaojiuguan (The Next Life Tavern)](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Xiaoyuzhou FM](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+
+
+
