@@ -12,10 +12,10 @@ services:
   googleAnalytics:
     ID: "G-SECWWMY8WQ"
 
-# outputs:
-#   home: [HTML, RSS]
-#   page: [HTML, RSS]
-#   section: [HTML, RSS]
+outputs:
+  home: [html]
+  page: [html]
+  section: [html, rss]
 
 # import hextra as module
 module:
@@ -43,17 +43,20 @@ menu:
       name: AI日报
       pageRef: /
       weight: 1
+    - identifier: blog
+      name: 博客
+      pageRef: /blog
+      weight: 2
     - identifier: about      
       name: 关于我 ↗
       url: "https://github.com/justlovemaki"
-      weight: 2
+      weight: 3
     - identifier: github   
       name: 同性交友
-      weight: 3
+      weight: 4
       url: "https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily"
       params:
         icon: github
-
 
 params:
   adsenseId: "ca-pub-8136412975724403"
