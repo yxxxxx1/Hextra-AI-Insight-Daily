@@ -60,7 +60,6 @@ params:
   ahrefsKey: "Qe0ZpZJ6/W8rgMFnLgk4kg"
   description: 个人每日整理的AI资讯站。我们为您过滤信息噪音，只提供最精选的AI新闻、最实用的AI工具与AI教程，助您高效获取人工智能领域的前沿动态
   descriptionEn: Your daily source for curated AI news, practical tools, and actionable tutorials to master Artificial Intelligence;
-  descriptionJA: 個人が毎日更新するAIニュースサイト。情報のノイズを取り除き、厳選したAIニュース、実用的なツールとチュートリアルだけをお届けします。人工知能の最先端を効率よくキャッチアップするお手伝いをします;
   logo: "images/logo-dark.png"
   
   author:
@@ -135,8 +134,3 @@ languages:
     languageName: English
     title: Hex2077's AI Daily | AI News | AI Tools | AI Insights
     weight: 2
-  ja:
-    contentDir: content/ja
-    languageName: 日本語
-    title: 何夕2077AIデイリー | 厳選AIニュース＆ツール | 最先端のAIインサイト
-    weight: 3
