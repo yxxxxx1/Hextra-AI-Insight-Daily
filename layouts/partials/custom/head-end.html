@@ -13,6 +13,31 @@
   {{ end }}
 {{ end }}
 
+{{- if .Site.Params.adsenseId -}}  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{- .Site.Params.adsenseId | safeJS -}}" crossorigin="anonymous"></script>
+{{- end -}} 
+
+{{- if .Site.Params.umamiKey -}}  
+<script defer src="https://cloud.umami.is/script.js" data-website-id="{{- .Site.Params.umamiKey | safeJS -}}"></script>
+{{- end -}} 
+
+{{- if .Site.Params.ahrefsKey -}}  
+<script src="https://analytics.ahrefs.com/analytics.js" data-key="{{- .Site.Params.ahrefsKey | safeJS -}}" async></script>
+{{- end -}} 
+
+{{/* 只有在配置文件中设置了 clarityID 时，才输出这段脚本 */}}
+{{- if .Site.Params.clarityID -}}    
+<script type="text/javascript">
+// Clarity Analytics Script
+(function(c,l,a,r,i,t,y){
+    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+})(window, document, "clarity", "script", "{{- .Site.Params.clarityID | safeJS -}}");    
+</script>    
+{{- end -}}   
+
+
 <script async src="//finicounter.eu.org/finicounter.js"></script>
 <script src="/adview_pic_cpc_cpm_cpa_guanggao_gg_guge__ads_300x250.js" type="text/javascript"></script> 
 <script type="text/javascript">
@@ -224,26 +249,6 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 </script>
-
-{{- if .Site.Params.adsenseId -}}  
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{- .Site.Params.adsenseId | safeJS -}}" crossorigin="anonymous"></script>
-{{- end -}} 
-
-{{- if .Site.Params.ahrefsKey -}}  
-<script src="https://analytics.ahrefs.com/analytics.js" data-key="{{- .Site.Params.ahrefsKey | safeJS -}}" async></script>
-{{- end -}} 
-
-{{/* 只有在配置文件中设置了 clarityID 时，才输出这段脚本 */}}
-{{- if .Site.Params.clarityID -}}    
-<script type="text/javascript">
-// Clarity Analytics Script
-(function(c,l,a,r,i,t,y){
-    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-})(window, document, "clarity", "script", "{{- .Site.Params.clarityID | safeJS -}}");    
-</script>    
-{{- end -}}   
 
 
 {{ "<!-- ENTERING partial seo-schema.html -->" | safeHTML }}
