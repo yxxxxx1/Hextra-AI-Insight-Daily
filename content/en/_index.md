@@ -2,73 +2,65 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /2025-10/2025-10-07
-description: "个人每日整理的AI资讯站。我们为您过滤信息噪音，只提供最精选的AI新闻、最实用的AI工具与AI教程，助您高效获取人工智能领域的前沿动态"
+next: /en/2025-10/2025-10-07
+description: Your daily source for curated AI news, practical tools, and actionable
+  tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
+## AI News Daily 2025/10/8
 
-## AI资讯日报 2025/10/8
+> `AI Insight` | `Daily Briefing` | `All-Net Data Aggregation` | `Frontier Science Exploration` | `Industry Voice` | `Open Source Innovation` | `AI & Human Future` | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/main/docs/images/wechat.png)
 
->  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/main/docs/images/wechat.png)
-
-
-
-### **今日摘要**
+### **Today's Summary**
 
 ```
-OpenAI DevDay发布Apps SDK，允许应用直接嵌入对话，构建全新应用生态。
-同时推出AgentKit工具集，旨在实现可靠智能体的快速构建与规模化部署。
-新版Codex能独立执行复杂工程任务，GPT-5 Pro和Sora 2等新模型也已亮相。
-前沿研究提出了更精准的风力预测模型，并开发了沉浸式语言学习冒险游戏。
-行业趋势指向应用入口简化与工程化，AI安全和负责任的使用也备受关注。
+OpenAI DevDay unveils Apps SDK, allowing apps to be directly embedded in conversations, building a new application ecosystem.
+AgentKit toolset also launched, aiming for rapid construction and scaled deployment of reliable agents.
+New Codex can independently execute complex engineering tasks; new models like GPT-5 Pro and Sora 2 also debuted.
+Frontier research presents more accurate wind power forecasting models and develops immersive language learning adventure games.
+Industry trends point towards simplified application entry and engineering, with AI safety and responsible use also gaining significant attention.
 ```
 
+### Product and Feature Updates
 
+1.  OpenAI DevDay 2025 dropped a bombshell 🚀, officially announcing AI's shift from "toy" to "application factory" era. **Apps SDK**, the core of this conference, allows developers to embed apps with interactive UIs directly into ChatGPT conversations. Users can invoke and use third-party services with a single phrase, completely changing application distribution and interaction logic. These updates are seen as the [Prototype of a Natural Language OS (AI Insight)](https://openai.com/devday/), marking the formation of a brand new application ecosystem. ✨<br/>![AI Insight: OpenAI Apps SDK Demo](https://source.hubtoday.app/images/2025/10/news_01k6zpc692ffx8kmp6md4t84qw.avif)<br/>
 
-### 产品与功能更新
+2.  OpenAI launched **AgentKit** to prevent agents from just being 'PPT deities.' This 'assembly line family pack' for agent development provides visual workflow orchestration, automated evaluation and optimization, and enterprise-grade connectors. Developers can use **AgentKit** to quickly build, test, and deploy reliable agents like building blocks, making 'production-ready, bug-free' agents the industry default, not just a flashy trick by a few. 🔥 [Click to Learn About AgentKit (AI Insight)](https://www.xiaohu.ai/c/xiaohu-ai/openai-devday-2025-ai-ai)!
 
-1.  OpenAI DevDay 2025 扔出重磅炸弹，正式宣告AI从"玩具”迈向"应用工厂”时代 🚀。这次大会的核心是 **Apps SDK**，它允许开发者将带有交互UI的应用直接塞进ChatGPT对话中，用户一句话就能唤醒并使用第三方服务，彻底改变了应用的分发与交互逻辑。这一系列更新被看作是[自然语言操作系统的雏形（AI资讯）](https://openai.com/devday/)，标志着一个全新的应用生态正在形成 (✧∀✧)。<br/>![AI资讯：OpenAI Apps SDK演示](https://source.hubtoday.app/images/2025/10/news_01k6zpc692ffx8kmp6md4t84qw.avif)<br/>
+3.  **Codex**, now officially GA, has evolved into an 'AI engineering teammate' that can work independently, no longer just a code completion tool. 🤔 The new version of **Codex**, equipped with the dedicated **GPT5-CODEX** model, can collaborate across multiple platforms—IDE, terminal, and cloud. It can autonomously study protocols, refactor code, and even execute complex tasks for extended periods. This heralds a redefinition of software engineering productivity, with human engineers increasingly acting as 'project managers.' 🤯 [Explore Codex's Powerful Capabilities (AI Insight)](https://openai.com/devday/).
 
-2.  为了让智能体不再是"PPT神兽”，OpenAI 推出了 **AgentKit**，堪称智能体开发的"流水线全家桶” 🔥。它提供可视化流程编排、自动化评测优化以及企业级连接器，让开发者能像搭积木一样，快速构建、测试并部署可靠的智能体。这意味着"能上线、不出错”的智能体将成为行业默认选项，而不是少数派的炫技，[点击了解AgentKit（AI资讯）](https://www.xiaohu.ai/c/xiaohu-ai/openai-devday-2025-ai-ai)！
+4.  The model family has also received a comprehensive upgrade. **GPT-5 Pro** is officially available via API, specializing in complex scenarios like finance and law that require deep reasoning. 🧠 The highly anticipated **Sora 2** achieves audio-visual isomorphism and powerful controllability, transforming static images into vivid video clips. 🎥 Additionally, **GPT-Realtime-Mini**, by reducing costs by 70%, declares voice interaction as the future mainstream. 🎙️ This wave of model updates provides [Powerful Momentum for Latest Application Scenarios (AI Insight)](https://www.xiaohu.ai/c/xiaohu-ai/openai-devday-2025-ai-ai).
 
-3.  正式GA的 **Codex** 已经进化为一名能独立干活的"AI工程队友”，而不再仅仅是代码补全工具 🤔。新版 Codex 搭载 **GPT5-CODEX** 专项模型，能够跨越IDE、终端和云端进行多端协同，自主研读协议、重构代码甚至长时间执行复杂任务。这预示着软件工程的生产力将被重新定义，人类工程师将更多地扮演"项目经理”的角色，[探索Codex的强大能力（AI资讯）](https://openai.com/devday/)。
+### Frontier Research
 
-4.  模型家族也迎来全面升级，**GPT-5 Pro** 正式通过API开放，专攻金融、法律等需要深度推理的复杂场景 💡。备受瞩目的 **Sora 2** 则实现了音画同构与强大的可控性，能将静态图片变为生动的视频短片，而 **GPT-Realtime-Mini** 则以降低70%的成本，宣告语音交互将成为未来的主流。这一波模型更新，为[最新的应用场景提供了强大动力（AI资讯）](https://www.xiaohu.ai/c/xiaohu-ai/openai-devday-2025-ai-ai)。
+1.  The long-standing problem of inaccurate wind power forecasting might have a new solution! 🌬️ A [Newly Published Academic Paper (AI Insight)](https://arxiv.org/abs/2510.03419) proposes **MT-NDP**, a multi-task neural diffusion process model. **MT-NDP** can simultaneously learn the operating patterns of multiple wind turbines, and its prediction accuracy and calibration far surpass traditional methods. This research not only makes the power grid more stable but also provides a brand new approach for handling complex industrial data. 💡
 
-### 前沿研究
+2.  Still rote learning foreign languages? How about an AI-driven text adventure game! 🎮 A [Paper on GenQuest (AI News Daily)](https://arxiv.org/abs/2510.04498) introduces **GenQuest**, a large language model-based text adventure game. **GenQuest** dynamically generates 'choose your own adventure' style stories based on the learner's language proficiency. The game also includes a vocabulary assistant, allowing players to easily improve their foreign language skills in an immersive story experience, truly achieving edutainment. ✨
 
-1.  风力发电预测不准的老大难问题，或许有新解法了 (o´ω'o)ﾉ。一篇[新发布的学术论文（AI资讯）](https://arxiv.org/abs/2510.03419)提出了一种名为 **MT-NDP** 的多任务神经扩散过程模型，它能同时学习多个风力涡轮机的运行规律，预测精度和校准度远超传统方法。这项研究不仅能让电网更稳定，还为处理复杂的工业数据提供了全新的思路 🤔。
+### Industry Outlook and Social Impact
 
-2.  学外语还在死记硬背？不如来一场AI驱动的文字冒险游戏吧 🎮！一篇[关于GenQuest的论文（AI资讯日报）](https://arxiv.org/abs/2510.04498)介绍了一款基于大语言模型的文本冒险游戏，它能根据学习者的语言水平动态生成"选择你的冒险”式的故事。游戏中还内置了词汇助手，让玩家在沉浸式的故事体验中轻松提升外语能力，真正做到了寓教于乐 🔥。
+1.  OpenAI DevDay 2025 points to three major trends in the AI industry: application entry being replaced by 'a single phrase' 💬, the decisive factor in agent development lying in 'engineering discipline' 🛠️, and software engineering output being redefined. The real moat isn't just model parameters anymore; it's standardized interfaces, quantifiable evaluation data, and robust automated processes. For all practitioners, [Grasping These Trends (AI Insight)](https://www.xiaohu.ai/c/xiaohu-ai/openai-devday-2025-ai-ai) is like securing your ticket to the future! 🚀
 
-### 行业展望与社会影响
+2.  In today's era of rapidly developing AI capabilities, preventing technology misuse is paramount. 🔒 OpenAI's [Latest Security Report (AI Insight)](https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025) highlights their active efforts to detect and dismantle malicious activities using AI. This report not only showcases OpenAI's sense of responsibility as an industry leader but also sets a benchmark for safety and ethics across the entire industry. 🏆
 
-1.  OpenAI DevDay 2025 指明了AI产业的三大趋势：应用入口被"一句话”取代，智能体开发的胜负手在于"工程纪律”，以及软件工程的产出将被重新定义 🧐。真正的护城河不再是模型参数，而是标准化的接口、可量化的评测数据和完善的自动化流程。对于所有从业者而言，[把握这些趋势（AI资讯）](https://www.xiaohu.ai/c/xiaohu-ai/openai-devday-2025-ai-ai)就是抓住了未来的船票 🚢。
+### Top Open Source Projects
 
-2.  在AI能力飞速发展的今天，防止技术被滥用显得至关重要。OpenAI 发布[最新的安全报告（AI资讯）](https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025)指出，他们正在积极行动，主动侦测并瓦解利用AI进行的恶意活动。这份报告不仅展示了OpenAI作为行业领导者的责任感，也为整个行业树立了安全与道德的标杆 (ง •̀_•́)ง。
+1.  Want AI agents to operate your computer for you? The **cua** project is an open-source infrastructure tailor-made for you. 🤩 Having already garnered [⭐9.9k Stars on GitHub (AI News Daily)](https://github.com/trycua/cua), **cua** provides a secure sandbox environment, an SDK, and benchmarks. This allows developers to train and evaluate AI agents that can fully control desktops (macOS, Linux, Windows). This project virtually paves the way for building the ultimate desktop assistant! 🚀
 
-### 开源TOP项目
+2.  **OpenEMR**, the most popular open-source electronic health record and medical practice management solution, continues to gain community favor. With its [GitHub Stars Reached ⭐3.9k (View AI Insight)](https://github.com/openemr/openemr), **OpenEMR** provides a powerful and freely customizable management system for medical institutions worldwide. It stands as an excellent example of technological inclusivity in healthcare. For clinics with limited budgets yet seeking efficient management, this is undoubtedly a godsend! 🙏
 
-1.  想让AI智能体帮你操作电脑吗？**cua** 项目就是为你量身打造的开源基础设施，目前在 [GitHub上已收获⭐9.9k星（AI资讯日报）](https://github.com/trycua/cua)。它提供了一个安全的沙盒环境、SDK和基准测试，让开发者可以训练和评估能完全控制桌面（macOS、Linux、Windows）的AI智能体。这简直就是为打造终极桌面助理铺平了道路 🚀！
+3.  Every developer deserves a cool domain name, and the **register** project makes this wish within reach! ✨ This interesting project, which has [Accumulated ⭐8.3k Stars on GitHub (View Now - AI Insight)](https://github.com/is-a-dev/register), allows you to get your own free `.is-a.dev` subdomain. In just a few simple steps, **register** can help you showcase your developer identity. Go give your personal project or blog a new home! 🏠
 
-2.  **OpenEMR** 作为最受欢迎的开源电子健康记录和医疗实践管理解决方案，正持续获得社区的青睐，其[GitHub星标数已达⭐3.9k（查看AI资讯）](https://github.com/openemr/openemr)。它为全球的医疗机构提供了一套功能强大且可自由定制的管理系统，是技术普惠在医疗健康领域的一个绝佳范例。对于预算有限但又追求高效管理的诊所来说，这无疑是雪中送炭 💡。
+### Social Media Buzz
 
-3.  每个开发者都值得拥有一个酷炫的域名，而 **register** 项目就让这个愿望变得触手可及 (✧∀✧)！这个在 [GitHub 上已累积⭐8.3k星（立即查看-AI资讯）](https://github.com/is-a-dev/register)的有趣项目，可以让你免费获得一个属于自己的 `.is-a.dev` 子域名，简单几步就能彰显你的开发者身份。快去给你的个人项目或博客安个新家吧！
-
-### 社媒分享
-
-1.  如何更高效地使用AI？一位博主提出了"使用AI的第一性原理”，即采取"自顶向下”的策略，在[社交媒体上引发了热烈讨论（AI资讯速递）](https://x.com/JamesGoong/status/1975397777418166489)。核心观点是：你应该只告诉AI你的**当前情况**和**终极目标**，让AI负责拆解和规划，而不是自己琢磨中间步骤再逐个提问。这种思维模式的转变，能帮助你避免路径偏移，更直达问题的本质 🤔。<br/>![AI资讯：使用AI的第一性原理](https://source.hubtoday.app/images/2025/10/news_01k6zpc999fm1tc87378ea450a.avif)<br/>![AI资讯：AI思维模式对比](https://source.hubtoday.app/images/2025/10/news_01k6zpce35f6ns9096pp7bd8ta.avif)
-
+1.  How to use AI more efficiently? A blogger proposed the 'First Principles of Using AI,' adopting a 'top-down' strategy. ⬆️ This approach, which has [Sparked Heated Discussion on Social Media (AI News Express)](https://x.com/JamesGoong/status/1975397777418166489), suggests you should only tell AI your **current situation** and **ultimate goal**. Let AI handle the breakdown and planning, rather than figuring out intermediate steps yourself and asking questions one by one. This shift in mindset can help you avoid deviating from the path and get straight to the essence of the problem. 🤔<br/>![AI Insight: First Principles of Using AI](https://source.hubtoday.app/images/2025/10/news_01k6zpc999fm1tc87378ea450a.avif)<br/>![AI Insight: AI Mindset Comparison](https://source.hubtoday.app/images/2025/10/news_01k6zpce35f6ns9096pp7bd8ta.avif)
 
 ---
 
-## **AI资讯日报语音版**
+## **AI News Daily Voice Edition**
 
-| 🎙️ **小宇宙** | 📹 **抖音** |
+| **Xiaoyuzhou** | **Douyin** |
 | --- | --- |
-| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
-
-
-
+| [Laisheng Xiaojiuguan](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![Xiaojiuguan](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
