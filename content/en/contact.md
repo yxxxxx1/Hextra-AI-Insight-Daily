@@ -4,15 +4,13 @@ type: page
 sidebar:
   exclude: true
 ---
-# Contact Me
+# Contact Me 👋
 
-Hey there! I'd genuinely love to hear from you. Got a burning question, a cool collaboration idea, or need some support? Just hit me up using the methods below.
-
-I'll make sure to get back to your emails super fast! 🚀
+Your input is incredibly valuable to me! I'd love to hear your thoughts and suggestions. Whether you have questions, partnership ideas, or need support, please don't hesitate to reach out. I promise to get back to your emails as quickly as possible.
 
 ---
 
-## **Contact Methods**
+## **How to Reach Me ✉️**
 
 *   **Email:**
     *   [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
@@ -24,4 +22,4 @@ I'll make sure to get back to your emails super fast! 🚀
 
 *   **Office Hours:**
     *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Weekends and public holidays? Nah, that's my chill time! 😉)
+    *   (Closed on weekends and public holidays)
