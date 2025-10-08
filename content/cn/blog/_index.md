@@ -7,7 +7,6 @@ sidebar:
   exclude: true
 ---
 
-## 何夕2077的小分享 
 
 <div style="text-align: center; margin-top: 1em;">
 {{< hextra/hero-badge link="index.xml" >}}
