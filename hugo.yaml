@@ -99,9 +99,20 @@ params:
     displayCopyright: false
     displayPoweredBy: false
 
-  # blog:
-  #   list:
-  #     displayTags: true  
+  blog:
+    list:
+      displayTags: true
+      # date | lastmod | publishDate | title | weight
+      sortBy: date
+      sortOrder: desc # or "asc"
+      # Pagination
+      pagerSize: 10
+
+    article:
+      displayPagination: true
+
+  toc:
+    displayTags: true
   
   page:
     # full (100%), wide (90rem), normal (1280px)
