@@ -93,6 +93,13 @@ content:
         default: false
         description: 勾选后文章为草稿状态，不会在网站显示
 
+      # 是否开启评论
+      - name: comments
+        label: comments
+        type: boolean
+        default: true
+        description: 是否开启底部文章评论
+
       # 分类和标签
       - name: categories
         label: 分类
