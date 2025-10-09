@@ -95,7 +95,7 @@ content:
 
       # 是否开启评论
       - name: comments
-        label: comments
+        label: 文章评论
         type: boolean
         default: true
         description: 是否开启底部文章评论
