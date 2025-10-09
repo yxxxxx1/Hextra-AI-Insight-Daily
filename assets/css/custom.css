@@ -118,6 +118,9 @@ footer .hx-max-w-screen-xl{
     display: none;
 }
 
+.hextra-max-footer-width {
+    max-width: 100%;
+}
 
 /* =================================================================== */
 /*                 [FIX v2] Light Theme Contrast Fix                   */
