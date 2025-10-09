@@ -76,15 +76,15 @@ content:
           time: true
           step: true
 
-      - name: lastmod
-        label: 最后修改时间
-        type: date
-        required: false
-        description: 留空则自动使用文件修改时间
-        options:
-          format: yyyy-MM-dd HH:mm:ss
-          time: true
-          step: true
+      # - name: lastmod
+      #   label: 最后修改时间
+      #   type: date
+      #   required: false
+      #   description: 留空则自动使用文件修改时间
+      #   options:
+      #     format: yyyy-MM-dd HH:mm:ss
+      #     time: true
+      #     step: true
 
       # 状态字段
       - name: draft
@@ -101,12 +101,12 @@ content:
         description: 是否开启底部文章评论
 
       # 分类和标签
-      - name: categories
-        label: 分类
-        type: string
-        list: true
-        required: false
-        description: 文章分类，可以添加多个
+      # - name: categories
+      #   label: 分类
+      #   type: string
+      #   list: true
+      #   required: false
+      #   description: 文章分类，可以添加多个
 
       - name: tags
         label: 标签
@@ -116,11 +116,11 @@ content:
         description: 文章标签，用于细分主题
 
       # 缩略图
-      - name: thumbnail
-        label: 文章缩略图
-        type: image
-        required: false
-        description: 文章封面图片
+      # - name: thumbnail
+      #   label: 文章缩略图
+      #   type: image
+      #   required: false
+      #   description: 文章封面图片
 
       # 正文内容
       - name: body
@@ -156,5 +156,5 @@ content:
         label: 页面内容
         type: rich-text
         required: true
-        description: 友链页面内容
+        description: 联系我们页面内容
 
