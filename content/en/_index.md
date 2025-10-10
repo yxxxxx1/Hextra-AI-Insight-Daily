@@ -2,86 +2,97 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-10/2025-10-09
+next: /en/2025-10/2025-10-10
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI Daily Digest 2025/10/10
+## AI News Daily 2025/10/11
 
-> AI News | Daily Briefing | Web-wide Data Aggregation | Cutting-Edge Scientific Exploration | Industry Free Voice | Open Source Innovation Power | AI and Human Future | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/main/docs/images/wechat.png)
+> AI News | Daily Morning Read | Aggregated Web Data | Cutting-Edge Scientific Exploration | Industry Free Speech | Open Source Innovation Power | AI and Humanity's Future | [Visit Web Version↗️](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-me.png)
 
-### **Today's Summary**
+### **Today's Lowdown**
 
 ```
-Google supercharges Gemini CLI with the Genkit extension, boosting developer productivity.
-Anthropic strikes a strategic partnership with IBM, integrating its Claude large models into IBM's software.
-Alibaba officially forms a robotics team, aiming to build a physical body for its Tongyi Qianwen large model.
-An industry report reveals OpenAI's lead is shrinking, while Chinese open-source models are making a strong comeback.
-Meanwhile, cutting-edge research shows top AIs only achieve ~20% success in real-world cyberattack simulations.
+AI video generation breaks through in performance details, with the new GAGA-1 model focusing on fine-grained depiction.
+New research breakthrough: a framework can automatically generate videos with virtual human narrators from academic papers.
+Edge-side large model track gains state-owned capital favor; FaceWall Intelligence secures hundreds of millions in funding to accelerate commercialization.
+NVIDIA CEO confirms significant increase in AI computing demand, highlighting the intensifying global AI arms race.
+Meanwhile, enterprises face the common dilemma of seamlessly integrating AI into existing workflows and systems.
 ```
 
-### Product & Feature Updates
+### Product & Feature Drops
 
-1.  **Google's Gemini CLI** just got a massive "brain upgrade"! The brand-new **Genkit extension** lets it chat seamlessly with popular tools like Figma, Postman, and Firebase. This extension transforms the command line from just executing commands into a truly smart development partner that understands the **Genkit architecture**, helping you write, debug, and optimize applications. You can [click to view the detailed introduction (AI News)](https://www.xiaohu.ai/c/xiaohu-ai/google-genkit-figma-postman-stripe-firebase). This is a huge win for developer productivity, allowing folks to focus more on innovative logic and less on tedious configurations.
-    <br/>![AI News: Genkit Extension Command Set](https://source.hubtoday.app/images/2025/10/news_01k74v23qpfd6v1r3rgytsyzt0.avif)<br/>![AI News: Supported Ecosystem and Partners](https://source.hubtoday.app/images/2025/10/news_01k74v281nf3d9574dewkj4mhp.avif)
+1.  **KAT-Coder**, Kuaishou's AI coding powerhouse, has stormed the battlefield and snagged stellar results on the prestigious **SWE-bench**! This mighty programming model is now live for direct experience on the StreamLake platform, and guess what? It's currently in free trial mode. Devs, go on and [experience it (AI News)](https://www.streamlake.ai/product/kat-coder) — get a taste of Kuaishou's tech shocker!
+    ![AI News: KAT-Coder Model Released](https://source.hubtoday.app/images/2025/10/news_01k7795nbrffabt024ee4cpxan.avif)
 
-2.  **Anthropic** is making big moves in the enterprise AI arena, just striking a strategic partnership with tech giant **IBM** to integrate its **Claude** large language model family into IBM's software products. This bold move, hot on the heels of its recent collaboration with consulting behemoth Deloitte, shows Anthropic is hitting the enterprise market hard from both tech and business angles. This puts unprecedented pressure on OpenAI, who've long dominated the space, [according to this report (AI News)](https://www.aibase.com/zh/news/21776). In this fierce battle for enterprise clients, Claude is gaining ground at an astonishing pace, and the AI market landscape is quietly shifting.
+2.  **RND1**, a diffusion LLM built on **Qwen3-30BA3B**, just dropped, instantly smashing performance ceilings for similar models and proving to be a beast in the diffusion model arena! This bad boy boasts insane processing and generation capabilities, pushing diffusion LLM tech to a whole new level. Curious? Head over to Hugging Face and [check it out (AI News)](https://huggingface.co/radicalnumerics/RND1-Base-0910) – feel the pulse of cutting-edge tech!
+    <br/><video src="https://source.hubtoday.app/images/2025/10/news_01k77966ztf6fan6zz83v0feqw.mp4" controls="controls" width="100%"></video>
 
-3.  **Alibaba** isn't content with just virtual AI anymore! They've officially launched the "**Robotics and Embodied AI Team**," aiming to give their large model, "Tongyi Qianwen," a physical body that can interact with the real world. Lin Junyang, the technical lead for "Tongyi Qianwen," is personally heading up this team, signaling Ali's deep dive into smart robotics by leveraging their extensive multi-modal model expertise. Their strategic ambition is clear, [as reported in this news (AI News)](https://www.aibase.com/zh/news/21757). This marks another major move by Alibaba in the intelligent manufacturing space, promising a more multi-dimensional competitive future!
+3.  The freshly launched **GAGA-1** model is here, focusing on detailed character dialogue and performance in AI video generation, and the results? Absolutely mind-blowing! It's even being hyped for surpassing Sora2 in micro-expressions and intricate performance nuances. As [Guizang's sharing (AI News)](https://x.com/op7418/status/1976590371854635293) pointed out, it fixes the stiff performance issue in AI videos, giving virtual characters Oscar-worthy acting chops. Best part? It's currently available for free trial!
+    <br/><video src="https://source.hubtoday.app/images/2025/10/news_01k77985kbeansnmywe772fbdb.mp4" controls="controls" width="100%"></video>
 
-### Cutting-Edge Research
+### Frontier Research
 
-1.  **CyberGym**, a massive "cybersecurity gym" featuring over 1500 real-world vulnerabilities, is the star of a new paper evaluating AI agents' practical capabilities. So, how good are AIs at being "hackers"? Interestingly, even top-tier AI model combos only hit about **~20% success**, which really highlights the extreme complexity of real-world cyber defense and offense. You can [read this report on arXiv (AI News)](https://arxiv.org/abs/2506.02548). What's even wilder is that the testing platform itself accidentally uncovered **35 zero-day vulnerabilities** and 17 historical patch flaws during its evaluations, basically turning itself into a treasure hunting tool!
+1.  A new study introduces the **NL-FL HybridReasoning** framework, which cleverly fuses the intuitiveness of natural language with the rigor of formal language, answering the question: how do you turn a large language model into a math whiz? This "liberal arts meets science" training method makes LLMs tackle complex math problems like they've unlocked a secret power, significantly boosting accuracy. This [paper (AI News)](https://arxiv.org/abs/2505.23703) opens up a fresh path for leveling up AI's logical reasoning game.
 
-2.  **Transparent obstacle detection** has always been a "silent killer" for drone flights, with glass and similar materials being particularly tricky. But a new study is giving small drones "fiery eyes" (think X-ray vision!). Researchers have cooked up a novel, lightweight framework that lets quadrotor drones weighing less than 300 grams detect and map glass in real-time by fusing data from a **ToF camera** and **ultrasonic sensors**. [According to this cutting-edge tech paper (AI News)](https://arxiv.org/abs/2510.06518), the entire system barely sips CPU resources from the embedded processor, paving the way for safer navigation for low-power robots.
+2.  The **Paper2Video** project just dropped **PaperTalker**, a multi-agent framework that can automatically generate explanation videos directly from research papers, bringing help to those stressing about recording videos for academic presentations! This bad boy handles everything end-to-end—slides, voice synthesis, virtual human narration—freeing scholars from the video-making grind. This [research (AI News)](https://github.com/showlab/Paper2Video) is seriously a game-changer for academic communication.
 
 ### Industry Outlook & Social Impact
 
-1.  **The freshly baked 314-page "2025 State of AI Report"** just dropped, revealing that the power dynamics in the AI world are seriously shaking up. The report points out that OpenAI's lead is shrinking, while Chinese open-source models like **DeepSeek** and **Qwen** are making a strong comeback. Plus, "**Inference**" has emerged as the year's main tech theme, with AI evolving from a mere tool into a smart assistant for scientists. You can [download the full report here (AI News)](https://www.stateof.ai/) to dive deep into how AI adoption is skyrocketing and how the computing bottleneck has shifted from GPUs to electricity.
-    <br/>![AI News: 2025 State of AI Report Cover](https://source.hubtoday.app/images/2025/10/news_01k74v2c3pf0q83wahj75v0m3x.avif)<br/>![AI News: State of AI Report Chart](https://source.hubtoday.app/images/2025/10/news_01k74v2jm4eycs44shspakrxf3.avif)
+1.  **FaceWall Intelligence** just bagged hundreds of millions in funding led by Beijing state-owned capital, giving the edge AI sector another boost with "national team" backing, and is full steam ahead on developing and commercializing edge large models. FaceWall is taking a unique path, aiming for higher "**knowledge density**" so their models can shine even on resource-constrained devices like phones and cars. According to [this report (AI News)](https://www.aibase.com/zh/news/21835), they've already got deep partnerships with giants like Geely and Huawei, and their privacy, security, and low-latency advantages make them unstoppable in edge AI.
 
-2.  **The 8 types of AI users** is a cool new framework proposed by a netizen, categorizing users from "basic user" all the way to "full reverse engineer." This classification, based on technical, emotional, and logical dimensions, offers a fresh perspective on how humans interact with AI. You can even [take a small quiz (AI News)](https://www.reddit.com/r/artificial/comments/1o1ggnu/the_8_types_of_ai_users_from_basic_user_000_to/) to figure out where you fit in. Go on, check out how you "gel" with AI!
+2.  **SERES just announced a major collaboration with ByteDance's Volcano Engine** to jointly explore AI-powered future mobility, as the era of "embodied intelligence" in the automotive industry speeds up! Volcano Engine will bring its top-tier **multimodal AI algorithms and computing power** to the table, while SERES will handle integrating that tech into real-world car scenarios, aiming to craft emotional, smarter mobile intelligent companions. This [powerful collaboration (AI News)](https://www.aibase.com/zh/news/21811) hints that our cars might just get their own "souls" sooner than we think.
 
-### Top Open-Source Projects
+3.  **Anthropic has planted its "Zero Slop Zone" flag on the streets of NYC**, tackling the flood of low-quality AI content and promoting its Claude model with a unique flash mob event. The scene? No devices allowed, folks encouraged to "think" with pen, paper, and books – a clever move to link their product directly to "deep thought" and "high quality." This [marketing campaign (AI News)](https://www.aibase.com/zh/news/21808) not only grabbed tons of eyeballs but also showcased Anthropic's ambition and smarts in the differentiated AI market.
+    <br/>![AI News: Anthropic's Offline Event](https://source.hubtoday.app/images/2025/10/news_01k7798qcyfebrgz3f324qn9yy.avif)
 
-1.  **Flowise**, the project that's racked up an insane ⭐44.9k stars on GitHub, is your savior if you've ever wanted to build AI agents but got scared off by complex code. It lets you build powerful AI applications with a visual drag-and-drop interface, just like playing with LEGOs! This project is lowering the barrier to AI development in an unprecedented way. Now, everyone can be an AI creator!
+4.  **AI workflow automation platform n8n just closed a whopping $180 million Series C funding round**, catapulting its valuation to $2.5 billion, with NVIDIA's NVentures even hopping aboard! This massive cash injection proves the huge market hunger for AI "orchestration" tools – basically, how to get complex AI models and business processes playing nice together. As [this news flash (AI News)](https://t.me/hackernews100cn/13382) spilled, n8n is fast becoming the crucial bridge connecting AI with real business value.
 
-2.  **Winapps**, a project that's garnered a high ⭐10.7k stars on GitHub, is making the dream of seamlessly running Windows applications on Linux a reality. It lets Microsoft Office or Adobe suites run like native apps on Ubuntu/Fedora. With deep file manager integration, it completely smashes operating system barriers. Now *that's* true cross-platform harmony!
+5.  **NVIDIA CEO Jensen Huang just fanned the flames of AI's inferno, flat-out stating that demand for AI computing has seen a "significant surge" over the past six months.** His words undeniably confirm the global AI arms race is heating up big time, with everyone from startups to tech titans scrambling for computing power. As [this report (AI News)](https://www.reddit.com/r/artificial/comments/1o2qvba/nvidia_ceo_jensen_huang_demand_of_ai_computing/) shows, in this AI "gold rush," NVIDIA, the "pickaxe seller," remains the biggest winner.
 
-3.  **Winboat**, a hot project that's snagged ⭐7.7k stars on GitHub, offers an elegant solution for developers who have to constantly switch between Linux and Windows. It's all about seamlessly integrating and running Windows apps on Linux. This project is working hard to eliminate the OS divide, letting developers focus on the work itself. This cross-platform magic is simply awesome!
+6.  **Google just dropped Gemini Enterprise**, marking another deep dive for AI into core business operations, but it also shines a light on a common pickle: the biggest hurdle for businesses isn't powerful enough models, but how to seamlessly hook AI into existing workflows and systems. As [this post (AI News)](https://www.reddit.com/r/artificial/comments/1o2cou4/googles_gemini_enterprise_just_dropped/) puts it, the real champs of the AI era will be those who are masters at "getting systems to talk to each other," not just the model builders.
 
-4.  **Cubyz**, a project that's pulled in ⭐975 stars on GitHub, is totally worth checking out if you're into voxel sandbox games like Minecraft. It boasts super-long render distances, procedurally generated content, and some seriously stunning graphics. This game aims to give players an incredibly free creative space. Get ready to kick off your next big adventure in the blocky world!
+### Top Open Source Projects
 
-### Social Media Shares
+1.  The open-source project **xiaozhi-esp32** makes the dream of getting your own chatbot running on a tiny **ESP32** chip a reality! Built on the MCP protocol, it gives IoT devices smart conversational chops. This project has already racked up ⭐19.3k Stars, making it a prime example for geeks blending AI with hardware. Go [check it out (AI News)](https://github.com/78/xiaozhi-esp32) — it's pretty cool!
 
-1.  **Andrew Ng's latest "Agentic AI" course** just dropped, and it's here to hand-hold you through building cutting-edge AI agent workflows using pure Python. The course zooms in on four core design patterns like **reflection** and **tool calling**, also stressing the importance of rigorous evaluation. This [course available on DeepLearning.AI (AI News)](https://x.com/dotey/status/1976007190755319944) is designed to arm you with the fundamental logic for building efficient, stable AI agents. Master these, and you'll be light-years ahead of most teams still figuring things out.
-    <br/><video src="https://source.hubtoday.app/images/2025/10/news_01k74v4vmceqzrtgc3ak7gnf9e.mp4" controls="controls" width="100%"></video>
+2.  **Microsoft just open-sourced R&D-Agent**, a beast of a tool designed to automate data-centric AI R&D workflows – basically, your R&D "smart co-pilot." This project aims to codify high-value, general R&D processes, letting AI handle all the tedious data and model grunt work. With ⭐8.3k Stars, it's signaling a whole new paradigm for AI-driven R&D. [Click for details (AI News)](https://github.com/microsoft/RD-Agent).
 
-2.  **The "flow state" that programmers often chase** might actually be their biggest enemy on the entrepreneurial journey, totally clashing with the highly fragmented work style that startups demand. One insightful post points out that AI finally gives programmers the multi-threading capability to "work like entrepreneurs." So, stop just using AI to write code – that's a total waste! Now's the perfect time for developers to [try entrepreneurship with AI (AI News)](https://x.com/JamesGoong/status/1976299596222693377) and push the boundaries of what they know!
+3.  The [**supermemory** (AI News)](https://github.com/supermemoryai/supermemory) project offers a lightning-fast, scalable memory engine and API specifically built for AI, answering the question: how do you give your applications a "super memory" brain in the age of AI? This ⭐11.3k Star project empowers your AI apps with powerful recall, leading to more personalized and consistent user experiences.
 
-3.  **Vercel bill optimization** just got easier! Is your Vercel bill ridiculously high? A developer just shared a money-saving secret: by enabling a hidden Vercel setting called "**Fluid Compute**" (which is off by default), they successfully slashed their bill by **80%**. This immediate fix mainly cuts down on **function duration** costs and is a huge blessing for serverless developers. You can [see the comparison chart in this post (AI News)](https://m.okjike.com/originalPosts/68e736d600c0686ab5af3997). Go check your settings now – stop burning cash for nothing!
-    <br/>![AI News: Vercel Cost Comparison Chart 1](https://source.hubtoday.app/images/2025/10/news_01k74v53e9f8m9ctnaxg73ffkc.avif)<br/>![AI News: Vercel Cost Comparison Chart 2](https://source.hubtoday.app/images/2025/10/news_01k74v5a17fadrja2td1bwffgw.avif)
+4.  A GitHub open-source project called **ticket-purchase** just blew up, helping those stressing over not snagging tickets on Damai.cn! It's a script that automates ticket grabbing, letting you auto-select people, cities, shows, and prices. This ⭐4.4k Star [practical tool (AI News)](https://github.com/WECENG/ticket-purchase) is powerful, but remember to use it responsibly – tech is neutral, after all!
 
-4.  **Alibaba Cloud AnalyticDB** is bringing good news to domestic developers! They've recently opened up free **Supabase** instances, offering a **1-core, 2GB** configuration, complete with thoughtfully built-in domestic SMS and social media authentication features. This free tier, which you can [experience directly here (AI News)](http://gpdbnext.console.aliyun.com/gpdb/cn-chengdu/supabase), significantly lowers the barrier for developers looking to use this powerful open-source backend service. For anyone looking to kickstart a new project quickly, this is definitely a perk you shouldn't miss!
-    <br/></video>
+### Social Media Buzz
 
-5.  **AI video creation** is totally leveling up into a new era! Platforms like Rosebud.ai let users easily turn their videos or images into "choose your own story" style **interactive video games**. As one user [shared on Jike (AI News)](https://m.okjike.com/originalPosts/68e76fbc00c0686ab5b3e888), we're moving from simple text-to-video generation to an interactive age where you can control scene evolution in real-time. For future video content, you won't just be a viewer – you'll be the main character!
-    <br/></video>
+1.  **Xiangyang Qiaomu offers a stellar example of how to efficiently digest lengthy content in an age of info overload**: directly using AI to summarize a whopping **110,000-character** story, and the results? Surprisingly good! This [practical case (AI News)](https://mp.weixin.qq.com/s/5f7epqe8zBy8BE7zwhaDtA) vividly demonstrates AI's formidable power as an "information compressor." For knowledge workers needing quick access to core ideas, this is an absolute godsend!
+    <br/>![AI News: Pavel Durov Interview](https://source.hubtoday.app/images/2025/10/news_01k779978jfytb6z77ypzqqzs9.avif)
 
-6.  **Google AI Studio's pesky little star watermark** got you down when generating images? A clever user just shared a simple, no-fuss workaround: just block the watermark image request directly in your browser's developer tools! You can [check out this tweet (AI News)](https://x.com/Gorden_Sun/status/1976202501650313439) for this handy trick, letting you easily get clean, pristine AI-generated works. Sometimes, solving "big problems" just needs a little bit of reverse thinking!
-    <br/>![AI News: Blocking Watermark Requests in Browser](https://source.hubtoday.app/images/2025/10/news_01k74v5fc2fhct5acmq8tvh44p.avif)
+2.  **ChatGPT's adoption speed is truly terrifying**: a chart drops a bombshell answer showing the internet took 13 years to hit 800 million weekly active users, but **ChatGPT**? A mere 2 years! This exponential growth curve graphically shows off AI tech's insane penetration and pull. As [this sharing (AI News)](https://www.reddit.com/r/artificial/comments/1o2xlnk/it_took_the_internet_13_years_to_get_800_million/) reveals, we're riding an unprecedented wave of technological transformation.
+    <br/>![AI News: ChatGPT User Growth Rate is Astounding](https://source.hubtoday.app/images/2025/10/news_01k7799jawft6a4t6vadq4vek1.avif)
 
-7.  **AI and Bash scripting** is a hilarious combo! One developer quipped that while they can still put up a fight writing other programming languages, when it comes to Bash scripts in front of AI, they're left choking on fumes. He confessed that Bash is a language he's used his whole life but still can't write, now relying entirely on AI for help. This [interesting post (AI News)](https://x.com/wwwgoubuli/status/1976280489066643587) resonated with tons of programmers. Maybe this is the ultimate definition of "to each their own," even if that "own" is AI!
-
-8.  **Debugging vs. coding** is a constant battle. "70% of my 'coding time' isn't actually coding; it's playing 'spot the difference' with error logs," a programmer's [complaint on Reddit (AI News)](https://www.reddit.com/r/artificial/comments/1o1fcnw/i_spend_more_time_debugging_than_coding_anyone/) perfectly captured the sentiment of countless developers. This struggle of being stuck in a death loop – adding logs, rewriting code, and eventually forgetting what you were trying to do in the first place – precisely illustrates the dark humor of a programmer's daily grind. This isn't just one person's whine; it's a collective industry groan.
+3.  **The "**Token Assassin**" problem is a real headache for devs using LLMs**: one developer hit up the community, saying his call costs frequently spike tenfold for no reason, especially during chain calls or retries. To tackle this pain point, he even whipped up a small script to monitor abnormal token consumption. This [soul-searching question (AI News)](https://www.reddit.com/r/artificial/comments/1o2bwl8/llm_calls_burning_way_more_tokens_than_expected/) struck a chord with many, also highlighting the real-world challenges of AI application cost control.
 
 ---
 
-## **AI Daily Digest Audio Version**
+**Final Thoughts:**
+
+Thanks for sticking around and reading this far! If it sparked even a tiny bit of inspiration:
+
+- **Join the "Chat Group"**, share your thoughts; every bit of feedback from you is super valuable.
+
+Looking forward to connecting more with you!
+
+| **Hexi 2077 Chat Group - Limited-Time Open** |
+| :-------------------------------------- |
+| ![Join Group Chat](https://source.hubtoday.app/logo/wechat-me.png) |
+
+---
+
+## **AI News Daily Audio Version**
 
 | **Xiaoyuzhou** | **Douyin** |
 | --- | --- |
-| [Reincarnation Pub](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Xiaoyuzhou Pub](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Afterlife Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intel Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
