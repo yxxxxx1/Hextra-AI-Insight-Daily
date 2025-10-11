@@ -26,6 +26,13 @@ code, kbd, samp, pre {
   height: auto;
 }
 
+.content table {
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  display: table;
+}
+
 video {
   margin-left: auto;
   margin-right: auto;
