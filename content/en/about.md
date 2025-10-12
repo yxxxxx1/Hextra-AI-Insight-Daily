@@ -4,23 +4,23 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hey there! 👋 He Xi 2077 / justlovemaki
+#### 何夕2077 / justlovemaki
 
-> Ten years coding, fingers a bit cold; big dreams in my heart, yet untold.
-> Then AI dropped like a lightning strike, now I'm ready to chase the sky, alright! 🚀
+> A decade spent coding, my fingers went numb, and my true ambitions felt stuck.
+> But then the AI revolution roared, and I knew it was time to jump into the fray!
 
-#### 🚀 My Code Philosophy
+#### My Code Philosophy
 
-> Tech for the people! 🧑‍💻
+> Tech serves the people.
 
-#### ✨ My Stellar Projects
+#### Key Projects
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   An AI image generation script built on Cloudflare Workers. Super handy! ✨
+    *   It's an AI image generation script built on Cloudflare Workers.
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This Cloudflare Workers-driven content aggregation and generation platform is a daily dose of AI awesomeness! It curates the latest developments, pulling together industry news, hot open-source projects, cutting-edge academic papers, and even social media insights from leading tech gurus. Talk about staying in the loop! 🧠
-*   Wanna see more? Peep my [GitHub](https://github.com/justlovemaki) for all the juicy details! 👇
+    *   This platform is a content aggregation and generation powerhouse, all thanks to Cloudflare Workers. Every day, it curates the latest AI buzz for you—think industry news, hot open-source projects, killer academic papers, and even what big tech influencers are chirping about on social media!
+*   Wanna dive deeper? Check out my [GitHub](https://github.com/justlovemaki) for all the extra project deets!
 
-#### 🌱 What I'm Cooking Up Now
+#### Currently Exploring
 
-Currently, I'm super hyped about LLM applications and website SEO. I'm actively diving deep, learning, and getting my hands dirty with some cool projects. The future is now! 💡
+I'm super hyped about LLM applications and website SEO right now, actively diving deep into learning and getting my hands dirty! 💡
