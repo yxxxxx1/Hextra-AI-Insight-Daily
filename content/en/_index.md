@@ -2,91 +2,114 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-10/2025-10-12
+next: /en/2025-10/2025-10-13
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## Daily AI Insights 2025/10/13
+## AI News Daily 2025/10/14
 
-> AI News | Daily Briefing | Web Data Aggregation | Cutting-Edge Science Exploration | Industry Voices | Open Source Innovation | AI & Human Future | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-me.png)
+> AI News | Daily Brief | Web Data Aggregation | Cutting-Edge Research | Industry Voices | Open Source Innovation | AI & Humanity's Future | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-me.png)
 
-### Today's Rundown
+### **Today's Rundown**
 
 ```
-User feedback indicates a decline in Claude Code's experience due to cost optimization, revealing the conflict between business and product experience.
-Latest research finds that rude and direct instructions given to ChatGPT-4o actually lead to higher answer accuracy.
-The Chinese government is accelerating software localization, with office systems fully switching from Office to WPS.
-In the AI era, human core value is shifting from the "how-to-do" execution level to the "what-to-do" decision-making level.
-Discussions on the essence and future forms of AI Agents are a focal point, prompting deep thought on their design patterns and development paths.
+Domestic AI assistants like Tongyi Qianwen and Doubao are internally testing memory features to catch up with ChatGPT.
+AI is impacting creative industries, causing the middle market to shrink and mediocre skills to face obsolescence.
+CCTV exposed "academic black factories" using AI to mass-produce fake papers, raising academic integrity concerns.
+Cutting-edge research explores multi-agent frameworks to enhance code generation accuracy through division of labor.
+Meanwhile, realistic AI-generated images are going viral, sparking widespread vigilance against tech misuse.
 ```
 
 ### Product & Feature Updates
 
-1.  **Claude Code**: Is it getting 'dumber' due to cost optimization? 👀 Multiple users and developers are reporting a significant decline in Claude Code's experience after recent updates. Not only is it **automatically compressing context** more often, leading to reduced usable space, but usage limits have also tightened, with some even experiencing 'cooling periods' of up to 4 days. Baoyu, referencing an analysis by Cline's founder, points out this could be Anthropic's way of reining in costs for its $200 capped plan, potentially at the expense of user satisfaction. This [Product Experience Decline News (AI News)](https://x.com/dotey/status/1977081742805942291) really shines a spotlight on the tricky balance between business models and product quality, sounding a clear alarm for the sustainable growth of AI products. 🚨<br/>![AI News: Reddit Users Report Claude Code Context Window Issues](https://source.hubtoday.app/images/2025/10/news_01k7cfe9zwfx4be2b0c6cznhvc.avif)<br/>![Screenshot of User Feedback on Claude Code Usage Restrictions](https://source.hubtoday.app/images/2025/10/news_01k7cferc5fp8tq83q0yjc3swj.avif)
+1.  Domestic AI assistants, like Alibaba's **Tongyi Qianwen** and ByteDance's **Doubao**, have finally learned to 'remember things' and are no longer stuck with goldfish memory! They've recently soft-launched internal memory features, determined to catch up with **ChatGPT**. This is a huge step, transforming them from forget-it-all tools into thoughtful personal assistants that can remember your preferences. Pretty cool, huh? 😎<br/>
+    ![AI News: Tongyi Qianwen Memory Feature Interface](https://source.hubtoday.app/images/2025/10/news_01k7f313ame8hrr5kmf8hryhe5.avif)
+    <br/>
+
+2.  **Kling AI**, Kuaishou's video generation model, is set to make a splash at MIPCOM 2025 (the Cannes Autumn TV Festival), making it feel like AI crashing the film industry's biggest party! 🎬 Kling AI isn't just showcasing its latest AI-driven production tech at the China Pavilion; it's also premiering a demo film, 'Echo Hunter: A Memory Too Far.' Looks like AI is evolving beyond a mere creator's tool—it's stepping into the director's chair to craft its own stories and define new narratives. Wild! [View More Activities (AI News)](https://x.com/Kling_ai/status/1977666699408363969)<br/>
+    ![AI News: Kling AI Cannes Event Preview](https://source.hubtoday.app/images/2025/10/news_01k7f3j5jqf8na466mxr2xexpm.avif)
+    <br/>
 
 ### Cutting-Edge Research
 
-1.  **ChatGPT-4o**: Want to make AI smarter? Latest research has a wild finding: the less polite you are to ChatGPT-4o, the more accurate its answers become! 🤯 Researchers tested five different tones, and guess what? Rude commands like 'Dummy, solve this!' achieved an impressive **85%** accuracy, while polite requests like 'Could you please help me solve this?' only reached **81%**. This [Thought-Provoking Paper (AI News)](https://arxiv.org/pdf/2510.04950) speculates it's not about AI having feelings; rather, rude instructions might simply act as 'clear commands,' helping the model focus better on the task itself. 🤔<br/>![Statistical Analysis of Experimental Data](https://source.hubtoday.app/images/2025/10/news_01k7cfezk8fr58sfvxrmz8qx5d.avif)
+1.  **Dyna-Mind**, a new research initiative, is teaching AI agents to 'think things through' rather than just acting impulsively. This groundbreaking study significantly boosts AI agents' performance in complex interactive tasks, like web navigation and phone operation, by having them conduct 'mental rehearsals' (aka vicarious trial and error) before taking action. Imagine giving AI a brain that can literally preview the future! It helps them spot dead ends before they even move. Pretty brilliant, right? 🧠 You can dive deeper [through this paper (AI News)](https://arxiv.org/abs/2510.09577).
 
-### Industry Outlook & Social Impact
+2.  **RA-Gen**, a new multi-agent framework, suggests future AI code generators might not be lone wolves but rather disciplined 'special ops teams.' This new paper introduces **RA-Gen**, which delegates tasks like decomposition, info searching, code generation, and data extraction to four specialized agents working in sync. This 'think-act' loop doesn't just make code generation incredibly precise; it also boosts [safety and controllability (AI News)](https://arxiv.org/abs/2510.08665) to new levels by integrating external tools and transparent reasoning. Talk about next-level teamwork! 🤝
 
-1.  The second **VACAT Award** is bringing an epic AI creative showdown to Shenzhen! 🎨 This highly anticipated event will feature a unique live competition where participants will battle it out in **Prompt engineering** and **AI video generation** under a strict time limit. Hailed as a global top-tier [AI Visual Creative Competition (AI News)](https://x.com/vista8/status/1977342685242679806), it's not just a tech clash but also a deep dive into AI art, aesthetics, and the future. Want to witness this legendary clash of top AI creators live? You absolutely can't miss this one! ✨<br/>![AI News: VACAT Award Event Poster](https://source.hubtoday.app/images/2025/10/news_01k7cff7yefkca1rxdh5qs8jgy.avif)<br/>![VACAT Award Event Details](https://source.hubtoday.app/images/2025/10/news_01k7cfffnefrj8qcf0xsh1ca9p.avif)
+### Industry Outlook & Societal Impact
 
-2.  **China's software localization wave** is accelerating! 🇨🇳 According to [Jike User's Observations (AI News)](https://m.okjike.com/originalPosts/68eb80fb1ed9b53c78d80a28), the Chinese government is fully switching its office software from **Office to WPS**, with plans to gradually phase out US hardware and software like Intel, AMD, and Windows by 2027. This move signals a strong commitment to achieving technological self-reliance in critical areas and hints at massive development opportunities for the domestic software ecosystem. This shift is bound to have a profound impact on the global tech landscape and is definitely worth keeping an eye on! 👀<br/>![AI News: Discussion on WPS Replacing Office](https://source.hubtoday.app/images/2025/10/news_01k7cffsfzemttjkan75xvbh0n.avif)
+1.  The creative industry's middle class is being mercilessly eaten alive by 'AI fast food,' leaving only superstar creators and automated vending machines. 🍔 A film production company owner shared that this year, they only landed **three top-tier clients**, with small to medium-sized clients all but vanishing. Why? The market is overflowing with 'exquisite but empty' AI-generated content. This paints a stark picture: in the age of AI, average skills won't cut it anymore. Only [top-tier professional capabilities (AI News)](https://www.reddit.com/r/artificial/comments/1o4yp1s/the_entire_middle_market_got_destroyed_by_ai_slop/) will survive. Food for thought, right? 🧐
 
-3.  **Yangyi** drops a bombshell: **AI Agents ARE humans!** 🤯 He posits a bold idea: over a long enough timeline, Agents are essentially no different from humans, facing similar constraints like output bandwidth, and will eventually possess all human traits. He goes even further, predicting that the **Transformer architecture isn't the endgame**; what will ultimately surpass it will be tiny changes found in local optimizations, or even ancient 'mystical concepts' that could one day be scientifically proven. This [Futuristic Deep Dive (AI News)](https://x.com/Yangyixxxx/status/1977210533117051021) paints a fascinating picture of AI's next evolutionary stage, giving us plenty of food for thought. 🤔
+2.  CCTV has dropped a bombshell, exposing 'academic black factories' that are using AI to mass-produce papers at an absolutely mind-blowing rate! 😱 These organizations operate under the innocent-sounding front of 'paper editing' but are actually leveraging templates and AI tools. Get this: one ghostwriter can **churn out 30 papers a day** across wildly unrelated fields like law, education, and computer science! This isn't just a ruthless stomp on academic integrity; it's also [a wake-up call for all practitioners (AI News Daily)](https://www.aibase.com/zh/news/21882). Seriously, what's going on?! 🚨
 
-4.  Are you anxious or chill amidst the roaring AI wave? 🌊 A blogger candidly shared their biggest fear isn't being replaced, but classic **FOMO (Fear Of Missing Out)**—worrying they won't even get a slice of the pie in this revolution. Yet, looking further ahead, they feel a sense of calm, believing AI will ultimately liberate productivity, granting more time to experience life itself and eventually find peace. This [Candid Self-Analysis (AI News)](https://x.com/JamesGoong/status/1977193076151271557) perfectly captures the mixed emotions many feel about this tech tsunami, hitting home for a lot of us. 🧡
+### Top Open-Source Projects
 
-5.  **Li Jigang** offers a seriously thought-provoking insight: What's truly rare in the AI era? 🤔 Scarcity is shifting from the "**how**" (execution) to the "**what**" (decision-making). As AI takes over most of the execution-level 'hows,' human value will shine in the strategic choices and value judgments of 'what to do' and 'why to do it.' This could totally be the golden age for the humanities! ✨ This [Insight into Value Shift (AI News)](https://x.com/lijigang_com/status/1977282284366778531) reminds us that the core of future competition won't be about technical implementation, but deep insight and directional choices. 🧭
+1.  Wanna become a prompt wizard but find all the theory super dull? 🧙‍♂️ **Anthropic's Interactive Prompt Engineering Tutorial** (⭐20.1k) is here to save the day! It's like an edutainment game that lets you effortlessly master the art of effective AI conversations through hands-on practice. Go ahead and give it a try [through this project (AI News)](https://github.com/anthropics/prompt-eng-interactive-tutorial)—it's time to ditch those vague, inefficient instructions for good! ✨
 
-### Top Open Source Projects
+2.  Looking to build a super brain for your AI coding assistant? You've gotta check out **Archon OS** (⭐12.6k)! This project is a 'central nervous system' for knowledge and task management, specifically designed for AI coding assistants. 🤯 Its goal? To give AI a robust memory and execution backbone, transforming them from forgetful tools into genuine programming partners who truly understand your workflow. Seriously, why not [check out this (AI News) open-source project](https://github.com/coleam00/Archon) and give your AI assistant the ultimate brain upgrade? ✨
 
-1.  The **Daytona open source project** (⭐22.8k): Still scratching your head over how to safely run AI-generated code? 🤔 This project, the [Daytona Open Source Project (AI News)](https://github.com/daytonaio/daytona), is like a developer's dream come true! It's built specifically to provide a secure and resilient infrastructure for running **AI-generated code**. With this solid backbone, developers can confidently let AI flex its muscles without fretting about environment or security issues, making AI coding practices super simple and reliable. ✨
+3.  Is your Windows system feeling sluggish and bloated, like a digital hoarder's paradise? 😩 Well, **Win11Debloat** (⭐28.7k) is the 'digital decluttering' tool you've been dreaming of! This lightweight script helps you uninstall pre-installed apps, disable telemetry, and get back a super clean and efficient operating system. It's like giving your PC a spa day! 🛀 Go ahead and [download this script (AI News)](https://github.com/Raphire/Win11Debloat) to tidy up your computer—it works for both Windows 10 and 11. You're welcome! 😉
 
-2.  The famous **RSSHub** (⭐39.1k) project: In this age of information overload, how can you elegantly aggregate all the content you care about? 🤯 This project, [The Famous RSSHub (AI News)](https://github.com/DIYgod/RSSHub), declares **"Everything is RSSable!"** It's dedicated to generating subscription feeds for websites and services that don't natively support RSS. Whether it's social updates, news, or podcasts, it can package everything into a clean RSS Feed, letting you take back control of your information flow. Go ahead and build your own serene info stream with it! 😌
+4.  If you're serious about learning prompt engineering, then the **Prompt-Engineering-Guide** (⭐63k) is your absolute 'secret manual' for mastery! 📖 This treasure trove compiles everything from beginner guides and academic papers to hands-on practical notes, earning it the nickname, the 'ultimate encyclopedia' in the field. Seriously, what are you waiting for? [Consult this guide (AI News)](https://github.com/dair-ai/Prompt-Engineering-Guide) and kickstart your journey to becoming an AI whisperer! ✨
 
-3.  **Alibaba's open-source spring-ai-alibaba Framework** (⭐6.1k): Java developers, still green with envy over Python's rich AI toolkit? 🐍 This framework, [spring-ai-alibaba Framework (AI News)](https://github.com/alibaba/spring-ai-alibaba), is here to change that! It's like a tailor-made agent development framework for the Java world, making AI app creation simpler than ever before. ✨ With it, you can easily integrate various large model capabilities and quickly build powerful **AI Agents**. This is undoubtedly a game-changer for the Java ecosystem to embrace the AI wave! 🚀
+5.  Still banging your head against the wall trying to set up and deploy web servers? 😩 Say hello to **Nitro** (⭐8k), the 'next-generation server toolkit'! This bad boy is like a Swiss Army knife 🔪, making it a breeze to create high-performance servers and deploy them anywhere your heart desires. With Nitro, you can ditch the tedious server configs and focus your energy where it truly matters: on your core business logic. So, what are you waiting for? [Explore this project (AI News)](https://github.com/nitrojs/nitro) and experience a silky-smooth development workflow! 🚀
 
-4.  **Klavis AI** (⭐4.7k), a star project from **YC X25**: How can AI agents reliably use thousands of tools? 🤔 This project, [Klavis AI (AI News)](https://github.com/Klavis-AI/klavis), has perfectly cracked this problem by offering an **MCP integration layer**. It acts like a super-translator and dispatch center, allowing AI agents to seamlessly and reliably call upon all sorts of external tools, hugely expanding the Agent's capability boundaries. 🚀 This totally paves the way for building those all-powerful super-Agents we've been dreaming of! ✨
+### Social Media Buzz
 
-### Social Media Shareables
+1.  AI-generated fake news has gotten so realistic, it's almost impossible to spot! 🤯 One user shared a viral image of a 'Texas cop' that looked totally legit at first glance. But here's the kicker: a tiny detail revealed the truth—the driver's seat was on the right side, which is a no-go in the U.S. 🕵️‍♀️ This fake image, which racked up **700,000 likes**, has really got people thinking: when AI tech is misused, [how far are we from the truth (AI News)](https://www.reddit.com/r/artificial/comments/1o5kb52/sora_2_was_a_massive_mistake_and_ai_needs_to/)? It's a scary thought! 😨<br/>
+    ![AI News: AI-generated Fake News Image](https://source.hubtoday.app/images/2025/10/news_01k7f3j8y5evb9s84r2nft9qgh.avif)
+    <br/>
 
-1.  **GinoBeFun** shares the latest chapter of his translated 'Agent Design Patterns' – **Routing Patterns**. How can AI Agents get truly 'smarter' instead of just blindly following one path? 🤔 This pattern gives agents the power to dynamically choose the best path based on different situations, making it the core of adaptive agents. Compared to rigid linear processes, [The Essence of Routing Patterns (AI News)](https://x.com/hongming731/status/1977351419037471046) lies in introducing conditional branches, allowing agents to 'adapt on the fly' just like humans. This [Agent Design Bible](https://github.com/ginobefun/agentic-design-patterns-cn/blob/main/08-Chapter-02-Routing.md), penned by Google experts, is laying down systematic design principles for the hot Agent field. 🔥<br/>![AI News: Schematic Diagram of Agent Design Pattern Routing Mechanism](https://source.hubtoday.app/images/2025/10/news_01k7cfg3zrff8bgnq944xmxd0m.avif)<br/>
+2.  AI agent development has finally got its 'bible'! 📖 Google engineers have open-sourced **Agent Design Patterns**, which is basically the 'Art of War' for the agent domain. What's truly mind-blowing is the 'Parallelization Pattern' concept. It teaches devs how to get agents to handle multiple tasks simultaneously, working like an ultra-efficient octopus and waving goodbye to slow, linear waiting. This [valuable Chinese translation (AI News)](https://github.com/ginobefun/agentic-design-patterns-cn/blob/main/09-Chapter-03-Parallelization.md) is definitely a must-bookmark and must-study for every AI developer out there! 🤩<br/>
+    ![AI News: Parallel Pattern Essence Overview](https://source.hubtoday.app/images/2025/10/news_01k7f3jcp3eh78hv1zhy3hwp8x.avif)
+    ![AI News: LangGraph Parallel Example](https://source.hubtoday.app/images/2025/10/news_01k7f3jftbfmtvmwpe9jmsae6t.avif)
+    <br/>
 
-2.  **Google** might have dropped another bombshell! 🤯 A Reddit user shared an image claiming Google has developed an AI capable of **learning from its own mistakes in real-time**, sparking a heated discussion in the community! 🔥 If true, this 'learns from its mistakes' ability would be a giant leap towards General Artificial Intelligence, meaning AI would no longer be just a simple pattern repeater. You can totally feel the community's shock and excitement in this [Heated Reddit Thread (AI News)](https://www.reddit.com/r/artificial/comments/1o4necz/holy_shitgoogle_built_an_ai_that_learns_from_its/)! ✨<br/>![AI News: Google AI Learning from Its Mistakes in Real-Time](https://source.hubtoday.app/images/2025/10/news_01k7cfmhymfwpaexwyvrh3tcnk.avif)
+3.  The AI video generation showdown is getting intense: who's going to come out on top, **Sora 2** or **Veo 3**? 🥊 In a viral comparison video, Sora 2's *xiangsheng* (cross-talk) snippet was so jaw-droppingly good, it had people roaring with laughter—it felt like the famous DeYunshe cross-talk troupe had opened an AI branch! 🤣 This epic tech battle isn't just showing off insane progress; it's also got everyone buzzing with endless possibilities for [the future of AI video (AI News)](https://m.okjike.com/originalPosts/68ec9dac02b6cd1372f2c291). Get ready for some wild stuff! ✨
 
-3.  **Baoyu** shares a seriously underrated tip for working with Claude Code: Stop breaking your back trying to write 'perfect' initial Prompts! 🛑 When using code agents like **Claude Code**, spend some time doing multi-round **'human-AI brainstorming'** first. The results are surprisingly effective! By gradually clarifying your needs through dialogue, just like you would with a colleague, you can significantly reduce AI's guessing errors and make it complete tasks much more reliably. This [Highly Valuable Practice Sharing (AI News)](https://x.com/dotey/status/1977107171188863084) truly reveals the essence of human-AI collaboration: your communication and expertise are the real keys to boosting Agent reliability. 🔑
+4.  Still tearing your hair out over video covers? 😩 Well, listen up! Learn how to create clickbait-worthy covers using the AI drawing tool **Ji Meng 4**! One blogger spilled the beans on a **four-step magic process**: generating an anime magazine-style background, integrating artistic fonts, and then swapping in real characters. It's basically a step-by-step guide to becoming a cover design pro! 🎨 [Check out this tutorial (AI News)](https://x.com/op7418/status/1977574988153761929) and make sure your videos are miles ahead of the competition from the get-go! 🚀
 
-4.  Want AI to precisely replicate an image's style, pose, and composition? 🖼️ You HAVE to try this super cool **Midjourney prompt**! It can generate 'hand-drawn line art' effects that are completely identical to the original image, nailing every single detail. ✨ The blogger even optimized the prompt further, ensuring AI doesn't just mimic the face, but crucially **maintains consistent pose and composition**, with astonishing results. Click on [This Amazing Prompt Sharing (AI News)](https://x.com/ZHO_ZHO_ZHO/status/1977259399833158116) to learn from the pros and level up your AI drawing skills! 🎨<br/>![AI News: Line Art Generated with Optimized Prompt](https://source.hubtoday.app/images/2025/10/news_01k7cfmrgtfqnvdsad8jam6xy0.avif)<br/>
+5.  **Suno v5**'s generated Chinese songs are now seriously 'on point'—they've blown past previous versions and are leaving listeners totally floored! 😲 A user-shared snippet showed off AI's huge leap in nailing Chinese rhythm and emotional expression. It no longer sounds like clunky machine translation; it's got that authentic 'song vibe' that just hits different. This is a massive signal that AI music creation is leveling up big time. Who knows, maybe the next [Chinese hit song will come from AI (AI News)](https://x.com/oran_ge/status/1977530628683014261)? Wild, right? 🎤
 
-5.  **Fanren Xiaobei** nails it: Why aren't your prompts hitting the mark? 🎯 All **prompt-related problems are fundamentally human problems**. It's all about the depth of your thinking, the integrity of your structure, and the clarity of your expression. 🤔 Instead of painstakingly studying all sorts of 'magic spells,' push yourself to first clearly articulate exactly what you want. Because when you break down the problem thoroughly, the model will naturally get it. This [Thought-Provoking Viewpoint (AI News)](https://x.com/frxiaobei/status/1977268416110379240) tells us that the most advanced prompt technique is, in fact, clear thinking itself. ✨
+6.  Are you constantly drowning in hundreds of WeChat group messages, with important info always getting lost in the noise? 😫 **ChatLog** is here to rescue your sanity! This incredible tool can summarize group chat records with a single click, automatically pulling out key info and organizing it for you. You'll grasp the day's essence in mere seconds! ⚡ Whether it's daily recaps for work groups or consolidating knowledge for study groups, ChatLog makes it a breeze, helping you [say goodbye to endless scrolling (AI News)](https://m.okjike.com/originalPosts/68ec6c643ea7571a7844cff2) forever! 🎉<br/>
+    ![AI News: ChatLog Feature Introduction](https://source.hubtoday.app/images/2025/10/news_01k7f33wc9e2n8pdntzjer59vn.avif)
+    ![AI News: ChatLog Usage Scenarios](https://source.hubtoday.app/images/2025/10/news_01k7f31vbmfbvrgtkcva2cw0ry.avif)
+    <br/>
 
-6.  **Reddit's UI redesign** to a single-column waterfall layout: Is social media UI design converging? 🧐 A [Netizen Complains on X (AI News)](https://x.com/Yangyixxxx/status/1977295940240429217) about Reddit's homepage redesign, with a style strikingly similar to Threads, making them pretty uncomfortable. This change reflects the current trend in product design chasing immersive, algorithm-recommended experiences, but it definitely sacrifices information density and existing user browsing habits. Looks like even veteran community Reddit isn't immune to the 'TikTokification' wave. 📉<br/>![AI News: Reddit's Redesigned Single-Column Waterfall Interface](https://source.hubtoday.app/images/2025/10/news_01k7cfmx9kfeqsbnj5rwrmcm47.avif)
+7.  Embracing AI is quickly becoming a critical 'filtering logic' for our generation, you know? 🤔 One blogger pointed out that only **5%** of people truly grasp AI's value and are leveraging it like crazy to supercharge their efficiency. The other **95%**? They're stuck in arrogance and prejudice, totally missing the boat. This insight perfectly highlights the widening gap in [current societal attitudes towards AI (AI News)](https://m.okjike.com/originalPosts/68ec5dd700c0686ab5140ec8). So, spill the tea: are you part of the savvy 5%? ✨<br/>
+    ![AI News: Thoughts on Embracing AI](https://source.hubtoday.app/images/2025/10/news_01k7f3afhffyrt299654g40fgg.avif)
+    <br/>
 
-7.  A blogger shares a profound reflection on true wealth in a fast-paced era: What is true wealth in our fast-paced world? 🌍 'When you can step away from obligation, choose from desire, and let go of possessions – that's when you are truly rich.' ✨ This [Zen-filled Reflection (AI News)](https://x.com/hongming731/status/1977252585875947873) reminds us that spiritual freedom and abundance far outweigh material riches. It sparked discussions among netizens about the 'ability to truly live,' suggesting that perhaps understanding life itself is the ultimate wealth. 💡<br/>![AI News: Thought Map on Personal Ability and Growth](https://source.hubtoday.app/images/2025/10/news_01k7cfn0gzfv0s52hhtm4jkbw7.avif)
+8.  Seriously, stop treating AI like it's just a souped-up search engine! 🙅‍♀️ It's time for a mindset shift—start using your 'hands' to train your 'brain'! One blogger dished out three mandatory moves to force yourself into using AI habitually. The big takeaway? We should see AI as a whole new way of thinking, not just a gadget to solve specific problems. This change in perspective is the absolute key to going [from 'using AI' to 'understanding AI' (AI News)](https://x.com/JamesGoong/status/1977546188456112240). Mind blown, right? 💡<br/>
+    ![AI News: Forcing AI Usage Habits](https://source.hubtoday.app/images/2025/10/news_01k7f351vpfhxbven7tz2m2pzb.avif)
+    ![AI News: AI as a Shift in Thinking Mode](https://source.hubtoday.app/images/2025/10/news_01k7f3jkg2e2jt2qr5j9twywqc.avif)
+    <br/>
+
+9.  The open-sourced **'Agent Design Patterns'** by Google engineers is getting massive buzz as *the* Agent book to read right now—seriously, it's a 'must-read classic' in the AI agent scene! 🤯 This book is packed with detailed flowcharts, principle breakdowns, and killer code examples, systematically laying out all the core principles and best practices for agent design. For any developer itching to really get under the hood and build powerful agents, this [e-book resource (AI News)](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/preview?tab=t.0) is an absolute treasure chest of knowledge! 💰<br/>
+    ![AI News: "Agent Design Patterns" Cover](https://source.hubtoday.app/images/2025/10/news_01k7f36qx4ffkr9x1vtjg9cx12.avif)
+    <br/>
 
 ---
 
-### Before You Go:
+**Final Thoughts:**
 
-Thanks for taking the time to read this! If it sparked even a tiny bit of inspiration:
+Thanks for sticking around and reading this whole thing! If it sparked even a tiny bit of inspiration for you:
 
--   🚀 **Join our [Community Group](https://source.hubtoday.app/logo/wechat-me.png)** to share your thoughts; every bit of your feedback is super valuable.
+- **Join the 'Community Chat'** and share your thoughts—every bit of feedback you give is super valuable to us!
 
-Looking forward to connecting more with you!
+Can't wait to connect with you more!
 
-| **Hexe 2077 Community Group - Limited-Time Open!** |
-| :----------------------------------------------- |
+| **Hexi 2077 Community Chat - Limited Time Open** |
+| :---------------------------------------------- |
 | ![Join Group Chat](https://source.hubtoday.app/logo/wechat-me.png) |
 
 ---
 
-## **Daily AI Insights Audio Edition**
+## **AI News Daily Audio Version**
 
 | 🎙️ **Xiaoyuzhou FM** | 📹 **Douyin** |
-| --- | --- |
-| [Afterlife Speakeasy](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Speakeasy](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| :------------------ | :---------- |
+| [Laisheng Xiaojiuguan](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Xiaojiuguan](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
