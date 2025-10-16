@@ -9,6 +9,9 @@ draft: false
 comments: true
 tags:
   - 视频模型
+  - AI视频
+  - Veo
+  - Sora
 ---
 谷歌和 OpenAI 都更新了各自的视频生成模型。以下是主要变化。
 
