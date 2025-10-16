@@ -7,6 +7,8 @@ description: 了解 Google Veo 3.1 和 OpenAI Sora 的最新更新。Veo
 date: 2025-10-16 18:31:00
 draft: false
 comments: true
+tags:
+  - 视频模型
 ---
 谷歌和 OpenAI 都更新了各自的视频生成模型。以下是主要变化。
 
