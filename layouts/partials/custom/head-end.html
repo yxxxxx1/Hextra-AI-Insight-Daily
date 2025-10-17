@@ -209,13 +209,13 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // --- 主逻辑 ---
 
-    // 1. 定义桌面端菜单的选择器
-    const desktopMenuSelector = 'ul.hx-flex.hx-flex-col.hx-gap-1.max-md\\:hx-hidden';
+    // 1. 定义桌面端菜单的选择器（转义冒号，使 querySelector 能匹配类名中包含冒号的 Tailwind-like 类）
+    const desktopMenuSelector = 'ul.hx\\:flex.hx\\:flex-col.hx\\:gap-1.hx\\:max-md\\:hidden'; 
 
     // 2. 定义移动端菜单的选择器
     // 通常，移动端菜单的类与桌面端相反（例如，在md及以上屏幕隐藏）
     // !!! 请根据你的HTML结构检查并确认这个选择器是正确的 !!!
-    const mobileMenuSelector = 'ul.hx-flex.hx-flex-col.hx-gap-1.md\\:hx-hidden';
+    const mobileMenuSelector = 'ul.hx\\:flex.hx\\:flex-col.hx\\:gap-1.hx\\:md\\:hidden'; 
 
     // 3. 分别为桌面和移动端菜单应用逻辑
     applyClickPrevention(desktopMenuSelector, 'Desktop Menu');
