@@ -4,25 +4,23 @@ type: about
 sidebar:
   exclude: true
 ---
-#### He Xi 2077 / justlovemaki
+#### Hexi 2077 / justlovemaki
 
-A decade of code, fingers grew cold,
-Frustrations simmered, a story untold.
-Then, AI's storm began to brew,
-Vowing to conquer new heights, and see it through.
+> Ten years coding, fingers growing numb, my spirit restless, waiting to become.
+> Then, the AI storm, a thunderous boom! I'm ready to leap, to own the room!
 
-#### 💡 My Code Philosophy
+#### My Code Philosophy
 
-> Technology serves the people.
+> Technology? It's all about serving the people! 🌍
 
-#### 🚀 Featured Projects
+#### Featured Projects
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   An AI image generation script, powered by Cloudflare Worker.
+    *   This awesome AI image generation script? It's all powered by Cloudflare Workers!
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This content aggregation and generation platform, driven by Cloudflare Workers, daily curates the latest AI developments. It pulls in industry news, trending open-source projects, cutting-edge academic papers, and even insights from tech KOLs' social media chatter.
-*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
+    *   This content aggregation and generation platform is totally driven by Cloudflare Workers. What's it do? It hooks you up with daily AI updates – we're talking industry news, hot open-source projects, mind-blowing academic papers, and even the latest social media takes from big-shot tech influencers!
+*   Wanna dive deeper? Peep my [GitHub](https://github.com/justlovemaki) for all the juicy project details!
 
-#### 🌱 Current Explorations
+#### What I'm Buzzing About
 
-I'm super interested in LLM applications and website SEO, and actively diving into learning and practical work.
+Right now, I'm super stoked about LLM applications and crushing it with website SEO. Actively learning and putting it into practice, baby! 🚀
