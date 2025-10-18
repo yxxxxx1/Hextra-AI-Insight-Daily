@@ -2,89 +2,98 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-10/2025-10-17
+next: /en/2025-10/2025-10-18
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI News Daily: October 18, 2025
+## AI News Daily 2025/10/19
 
-> AI News | Daily Briefing | Data Aggregation | Frontier Science | Industry Insights | Open Source | AI & Future | [Visit Web Version](https://ai.hubtoday.app/) | [Join Community](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> `AI News` | `Daily Briefing` | `Web Data Aggregation` | `Frontier Science Exploration` | `Industry Voice` | `Open Source Innovation` | `AI and Human Future` | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-### Today's Rundown
+### **Today's Summary**
+
 ```
-OpenAI's Sora video model has landed on Microsoft Azure, entering public preview with usage-based billing.
-Claude is now seamlessly integrated into Microsoft 365, while Copilot is testing direct local file manipulation.
-In research, Baidu's open-source PaddleOCR-VL model has topped global document parsing benchmarks with its lightweight efficiency.
-New research reveals that natural language descriptions for guiding AI tool calls are far superior to rigid JSON formats.
-Additionally, Anthropic has launched its Agent Skills feature, boosting AI's expertise through structured knowledge.
+Anthropic launched a "Skills" system for its Claude model, while Gemini API officially integrated with Google Maps.
+Frontier research quantified counting hallucinations in AI image generation and proposed improvements for accuracy.
+OpenAI founding member Andrej Karpathy highlighted significant challenges remaining for achieving reliable AI agents.
+Fields Medalist Terence Tao believes AI will primarily serve as an efficient research assistant for human experts in the short term.
+As AI capabilities grow, human core competencies will shift towards unique aesthetics, insights, and creative guidance.
 ```
 
 ### Product & Feature Updates
-1.  OpenAI's **Sora 2** video generation powerhouse has officially touched down on Microsoft Azure AI Foundry International, making its grand entrance into public preview! This means enterprises and developers can finally get their hands on its API and peek behind the curtain 🎬. This game-changing service is priced at $0.1 per second, billed by generation time, signaling that high-end [Video Generation AI (AI News)](https://www.aibase.com/zh/news/22055) tech is fast-tracking from the lab to the commercial arena. This isn't just an upgrade; it's a massive leap for the video content creation industry, bringing a whole new level of efficiency and making discussions about costs and applications super concrete. ✨
 
-2.  **Claude**, the ultimate "social butterfly" of large language models, just snagged its golden ticket into the Microsoft empire, now seamlessly connecting with the Microsoft 365 ecosystem 🚀. This means it can glide effortlessly through your SharePoint, OneDrive, Outlook, and Teams, helping you pinpoint information and whip up tailored responses. It's more than just a slick integration; think of it as getting an all-knowing, all-powerful AI assistant for your digital workspace, making cross-application collaboration a brilliant reality. 🤯<br/><video src="https://source.hubtoday.app/images/2025/10/news_01k7sbz3sgf0ft56ycw9kbyp5y.mp4" controls="controls" width="100%"></video>
+1.  Anthropic has just introduced a brand-new "Skills" system for its Claude models, essentially giving the AI a customizable skill tree! 🚀 Renowned developer Simon Willison believes this paradigm could be even more disruptive than the MCP concept, enabling Claude to learn and [master and improve specific task capabilities](https://readhacker.news/s/6DM4B). This is a monumental leap, shifting the model from being "all-knowing" to "all-capable."
 
-3.  Google DeepMind just dropped a generative AI update for its wildly popular [Human-AI Guide (AI News)](http://pair.withgoogle.com/guidebook) – basically, the "new bible" for AI product design 📖. This super practical toolkit aims to help UX, product, and research teams craft genuinely human-centered, useful, and responsible AI experiences, steering clear of creating flashy but hollow "digital gods." For anyone building the AI future, this is an absolute must-read resource. Seriously, grab a copy! 👇<br/><video src="https://source.hubtoday.app/images/2025/10/news_01k7sbzd0eewhaxe2nb8z6tmeg.mp4" controls="controls" width="100%"></video>
+2.  Gemini API is now officially integrated with Google Maps, forging a deep connection between the powerful reasoning capabilities of large models and the real world! 🥳 By tapping into **over 250 million real-world locations**, developers can now build brand-new AI applications with cutting-edge geospatial awareness, as showcased in this [official announcement](https://x.com/googleaidevs/status/1979277829750821178). It's literally like equipping Gemini with eyes to understand the globe and feet to traverse it! 📍
 
-4.  Microsoft is quietly rolling out a massive update, planning to give Windows 11's **Copilot** the power to directly mess with your local files – finally bringing this AI assistant "down to earth" and onto your hard drive! 💾 This feature will first hit Windows Insider and Copilot Labs users, and while it's off by default (and you can always take control back), it signals that desktop AI is shifting from the cloud to local, heading towards deeper OS integration. Go [Check Latest Updates (AI News)](https://www.reddit.com/r/artificial/comments/1o8tf7o/microsoft_will_test_a_copilot_ai_feature_that/) and see how close your PC is to becoming a real-life "Jarvis"! 🤖
+### Frontier Research
 
-5.  Anthropic's **"Agent Skills"** feature is brilliantly likened to writing an "onboarding manual" for AI, allowing models to learn and master specialized domain expertise on demand. 🧠 Developers just need to drop SKILL.md files (complete with metadata and instructions), or even executable scripts, into a specific directory to guide Claude into becoming an expert in that field. As this [Technical Deep Dive (AI News)](https://x.com/dotey/status/1978898468987867542) shows, this model massively simplifies AI capability expansion, making it easier than ever to build powerful, vertical-specific intelligent agents. This is a game-changer! 🤯 <br/>![AI News: Agent Skills Feature Architecture Diagram](https://source.hubtoday.app/images/2025/10/news_01k7sbzkrdeejt141ay5t4xgjn.avif)<br/>![AI News: Official PDF Skill Example](https://source.hubtoday.app/images/2025/10/news_01k7sbzrcaeb5rt74nhvcsegaf.avif)
-
-### Cutting-Edge Research
-1.  A joint [Academic Paper (AI News)](https://arxiv.org/pdf/2510.11370) by Xiaomi and Peking University has sparked a huge buzz in the tech world. One of its corresponding authors is none other than Luo Fuli 👩‍💻, the "genius girl" rumored to have been poached by Lei Jun for a multi-million annual salary! Interestingly, her "Xiaomi" affiliation isn't explicitly mentioned in the paper, leaving a bit of a cliffhanger about this tech star's ultimate allegiance. Regardless, this collaborative research totally highlights Xiaomi's strategic moves in cutting-edge AI and its hunger for top talent. You can dive into more behind-the-scenes juicy bits via [This Report (AI News)](https://www.aibase.com/zh/news/22072). 🕵️‍♀️<br/>![AI News: Xiaomi and Peking University Joint Paper](https://source.hubtoday.app/images/2025/10/news_01k7sc646nf4pt1cj9v3nkjc9s.avif)
-
-2.  Are your text-to-image models constantly making your main character look like a complete stranger? 🖼️ A [Latest Research (AI News)](https://arxiv.org/abs/2510.14553) paper has cracked the code on "identity drift," revealing its root cause: models naturally "bind" the subject to the scene's background during training. 🤔 Researchers not only theoretically proved the prevalence of this association but also proposed a new, training-free method called **SDeC (Scene De-contextualization)**. This clever algorithm "unbinds" the character from the scene. It's like casting a "character lock" spell on AI, ensuring your folks stay consistent no matter the backdrop – super valuable for real-world applications! ✨
-
-3.  Baidu's PaddleOCR team, in its [Latest Paper (AI News)](https://arxiv.org/abs/2510.14528), dove deep into the tech core of **PaddleOCR-VL**, their global-leading document parsing model. This model cleverly fuses a **NaViT**-style dynamic resolution visual encoder with the sharp **ERNIE-4.5-0.3B** language model, achieving a breakthrough in both accuracy and efficiency. The research not only spills the beans on how it pulls off such stellar performance with just 0.9B parameters but also offers up some seriously valuable insights for designing compact multimodal models in the future. 🔥 This is a big deal for efficiency! 🚀
-
-4.  Getting large models to understand and generate SQL queries across different languages has always been a head-scratcher, especially with accuracy plummeting in non-English scenarios. 📉 But a [Latest Paper (AI News)](https://arxiv.org/abs/2510.13827) brings a game-changing solution! 🌍 Researchers innovatively introduced a "contrastive reward" mechanism, using reinforcement learning to teach models a deeper understanding of user semantic intent, not just literal translation. Astonishingly, a smaller 3B model fine-tuned with this method actually outperformed an unoptimized 8B behemoth in execution accuracy, truly delivering a "dimension-reduction attack" for cross-language Text-to-SQL. Talk about punching above its weight! 🥊
-
-5.  The evolution of AI Vision-Language Models (VLMs) is undergoing a paradigm shift, and a [Major Paper (AI News)](https://arxiv.org/abs/2510.14979) titled "From Pixels to Words" introduces the brand-new **NEO** model family, aiming to build "native" VLMs. Researchers argue that instead of piecing together visual and language modules like LEGO bricks, we should build a unified, monolithic model from the get-go that can simultaneously understand both pixels and words. NEO is the fruit of this philosophy, attempting to fundamentally resolve the inherent conflicts of modular VLMs and pave the way for more powerful, efficient, general-purpose vision-language intelligence. This is groundbreaking! 🌟
-
-6.  Here's a mind-blowing [Experimental Study (AI News)](https://www.reddit.com/r/MachineLearning/comments/1o8szk0/r_plain_english_outperforms_json_for_llm_tool/)! It found that when guiding large language models (LLMs) to call tools, using simple natural language descriptions totally crushes rigid JSON formats. This method, dubbed **Natural Language Tools (NLT)**, boosted accuracy by a whopping 18 percentage points while slashing result variance by 70%, making model performance way more stable. This discovery tells us: instead of forcing models to learn complex programming syntax, let them "think" in their most familiar human language environment. The results are surprisingly better! 🤯💡
+1.  Why do AI artists always mess up fingers? 🤔 A research team from the University of Adelaide, Meituan, and Shanghai Jiao Tong University has, for the first time, systematically quantified the **counting hallucination** problem in diffusion models. 🔥 Not only did they build the first evaluation benchmark, **CountHalluSet**, but they also made the astonishing discovery that common optimization techniques, like increasing sampling steps, can actually *worsen* these hallucinations! They've also proposed a [joint diffusion model solution](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247833874&idx=5&sn=968fe6f37ad7ca8b697723484e609982) that significantly reduces errors, with its [paper](https://arxiv.org/pdf/2510.13080) and [code](https://github.com/ShyFoo/CountHallu-Diff) both publicly available. This groundbreaking research is a massive leap forward, pushing AI generation from merely 'looking real' to 'being accurate'!
+    <br/>![AI News: Joint Diffusion Model Architecture Diagram](https://source.hubtoday.app/images/2025/10/news_01k7vy96mbekz8k1a4gnmdcq3j.avif)
+    <br/>![AI News: CountHalluSet Dataset Example](https://source.hubtoday.app/images/2025/10/news_01k7vy9dtgeyf9rwphz61918pk.avif)
 
 ### Industry Outlook & Social Impact
-1.  AI music creation is no longer just a geeky toy; it's becoming the "new side hustle" for programmers! Some folks are racking up over 2 million plays and tens of thousands in copyright revenue within hours, all thanks to AI tools 💰. This phenomenon vividly illustrates how AI is leveling the playing field for music creation, letting regular people with zero music theory background turn their musical dreams into commercial reality. As [This Report (AI News)](https://www.aibase.com/zh/news/22070) reveals, human-AI collaboration is the new normal in the music industry, with AI handling the technical execution while humans inject all the emotion and creativity. 🎶
 
-2.  A deep thinker dropped a profound insight on [Social Media (AI News)](https://x.com/Yangyixxxx/status/1979068920469344520): the birth of AI will drastically accelerate humanity's knowledge "sedimentation" process, making future knowledge acquisition as simple as loading "skills" onto an AI. 🤔 This observation perfectly pinpoints that the trickiest part of prompt engineering right now is embedding deep domain knowledge. This hints that AI's core value in the future might not be computation, but rather becoming an incredibly efficient vehicle and inheritor of human expertise. Pretty mind-blowing, right? 🧠
+1.  OpenAI founding member Andrej Karpathy has thrown a bucket of cold water on the feverish AI Agent market, sharply pointing out that we're in the 'Decade of Agents,' not the 'Year One of Agents' 🥶. He uses the example of autonomous driving's "**march of the nine nines**" to emphasize the chasm between a 90% demo and a 99.999% reliable product, highlighting the need to overcome huge failure costs and countless long-tail problems. This [in-depth analysis](https://m.okjike.com/originalPosts/68f3163dcc3970b79d9ac1bd) reminds us that in the age of AI, patience is far more valuable than excitement.
+    <br/>![AI News: Analogy between Autonomous Driving and AI Agents](https://source.hubtoday.app/images/2025/10/news_01k7vy9gdtfdtbs7zdq486y6kd.avif)
 
-### Top Open Source Projects
-1.  Who says you need top-tier compute power to train large models? 😤 The [**minimind** Project (AI News)](https://github.com/jingyaogong/minimind) completely shatters that myth, letting you train a full-fledged mini GPT model with just **26M** parameters from scratch in a mere two hours! 🚀 This project, which has already snagged a whopping ⭐28.6k stars on GitHub, dramatically lowers the entry barrier for LLMs, enabling more developers and researchers to hands-on experience and explore the mysteries of large models. It's basically the "go-kart" of the large model world – tiny but fully equipped! 🏎️
+2.  When AI can execute ideas at astonishing speed, the real bottleneck isn't technology anymore—it's the commercial insight of 'what to do' and 'how to do it.' An [incisive post](https://x.com/Yangyixxxx/status/1979335089445310601) suggests that instead of just dreaming, it's better to talk to real customers and even collect deposits. That's because the process of taking on projects is where you uncover true pain points and willingness to pay 💰. For independent developers, pursuing multiple paid demands in parallel is the best way to amplify chances of success.
 
-2.  The language of financial markets can be as dense as fog, but the [**Kronos** Project (AI News)](https://github.com/shiyu-coder/Kronos) is the "Wall Street Decoder" born for it – a foundational language model specifically crafted for the finance sector. It's dedicated to deeply understanding the unique jargon and logic in financial reports, research papers, and market news, helping analysts and investors make smarter decisions. This project, which has already raked in ⭐7.6k stars, is quickly becoming an indispensable intelligent engine in FinTech. 📈
+3.  Fields Medalist Terence Tao believes that AI's short-term value in mathematics isn't about tackling top-tier problems, but rather acting as an efficient research assistant, helping experts handle tedious tasks like literature retrieval 💡. This "**AI-assisted + human confirmation**" model has already successfully helped uncover existing solutions to at least six of Erdős's 'unsolved mysteries,' showcasing the immense potential of human-machine collaboration. As this [brilliant interpretation](https://x.com/dotey/status/1979341540028715202) puts it, AI is liberating mathematicians from repetitive labor, allowing them to focus on genuine innovation.
 
-3.  What new tricks can terminal tools pull off? 🤔 The [**waveterm** Project (AI News)](https://github.com/wavetermdev/waveterm) serves up an astonishing answer: it's not just a command-line interface, but an open-source, cross-platform, seamless workflow engine! This modern terminal, boasting ⭐11.6k stars, aims to free developers from tedious window switching and environment config, creating a super-efficient, unified command center. It makes command-line operations feel as natural and smooth as breathing. Ah, pure bliss! 😌
+4.  As AI becomes increasingly powerful, human core competitiveness will pivot from execution to creation. Our unique **aesthetics and insights** will become the sole moat 🌊. We'll transform into directors, chief editors, and concept creators, providing context to AI with our life experience and professional knowledge, co-creating magnificent works. As this [thought-provoking tweet](https://x.com/vista8/status/1979389046234415165) suggests, your distinctive taste is truly your most valuable asset in the future.
 
-4.  A developer shared a command-line tool on [Social Media (AI News)](https://x.com/HiTw93/status/1978964673601937877) with a slightly "malicious" name but incredibly practical utility: the **Shit-Code Detector (fuck-u-code)** 😂. This tool assesses your code's "shit-heap level" and churns out a beautifully presented report, giving you honest (and maybe a little brutal) feedback. Head over to the [Project Homepage (AI News)](https://github.com/Done-0/fuck-u-code) and find out if your code is "a breath of fresh air" or a "mudslide"! 💩<br/>![AI News: Shit-Code Detector Analysis Report](https://source.hubtoday.app/images/2025/10/news_01k7sc1q1nfe1bttzzm3d406v9.avif)
+5.  A sharp comment reveals a bizarre phenomenon within some big tech companies: middle managers are meticulously weaving 'dreamlands' for executives, letting decision-makers sleep soundly in a false sense of prosperity 🤔. The author in [this post](https://x.com/oran_ge/status/1979542805799465379) sardonically points out that these companies aren't even relying on AI to survive, hinting at the massive crisis lurking behind such outdated work practices. Dreams, after all, eventually come to an end—we just don't know when.
 
-### Social Media Highlights
-1.  The release of AI music generation tool **Suno V5** is being hailed by many as a "tipping point" in the music industry, foreshadowing the dawn of an era of universal creativity! 🎶 One [Blogger (AI News)](https://x.com/op7418/status/1979122150171906559) believes this could inject a fresh wave into a pop music scene often filled with mediocre remixes, making high-quality music creation accessible to everyone. They even generously shared a set of universal Suno prompt words and tutorials, aiming to help more people unleash their musical talent. Get ready to drop some beats! 🎤<br/>![AI News: AI Music Creation Interface](https://source.hubtoday.app/images/2025/10/news_01k7sc1tq5fqw9zn14qqzq15vk.avif)<br/><video src="https://source.hubtoday.app/images/2025/10/news_01k7sc31prf0y9khdxr4nh9zrq.mp4" controls="controls" width="100%"></video>
+### TOP Open Source Projects
 
-2.  In an [In-depth Review (AI News)](https://medium.com/@iamJonatha/hi-im-jonatha-a-tech-savvy-developer-and-productivity-enthusiast-who-loves-exploring-new-tools-79dd76d24403), a user raved about **Comet Browser**, calling it the first "truly deserving" AI agent browser they've ever used, far exceeding simple sidebar chatbots. This browser proactively predicts user needs, auto-fills forms, organizes tabs, and even links up with apps like Notion, genuinely achieving cross-platform browsing automation. This share gives us a glimpse: future browsers might not just be tools but intelligent partners ready to take on your workload! 🚀 That's a serious upgrade! ✨
+1.  `claude-cookbooks` is a must-see 'kung fu manual' if you're looking to master Claude models, having already garnered a whopping ⭐21.2k stars on GitHub! This resource compiles tons of engaging and efficient tutorials, guiding you step-by-step on how to unleash Claude's full potential ✨. Whether you're a newbie or a seasoned pro, you'll find inspiration to level up in [this treasure trove](https://github.com/anthropics/claude-cookbooks).
 
-3.  Just how high can an Agent's capabilities soar? 🚀 An [In-depth Analysis (AI News)](https://x.com/dotey/status/1979041449892004117) of the **Manus** Agent unpacks its ingenious **three-layer tool design**, which is nothing short of an art form in "context offloading." It uses a killer combo of "atomic functions + sandbox command-line tools + real-time Python code" to let the Agent generate endless complex capabilities with a surprisingly minimal core toolset. This layered architecture design offers an exceptional blueprint for building even more powerful and efficient AI agents. Seriously smart stuff! 🤯<br/>![AI News: Manus Three-Layer Tool Architecture Diagram](https://source.hubtoday.app/images/2025/10/news_01k7sc3cttet7v3w214pqyma59.avif)<br/>![AI News: Context Offloading Techniques Shared](https://source.hubtoday.app/images/2025/10/news_01k7sc3gmyfnds3st0xbr4axk6.avif)
+2.  `Hands-On-Large-Language-Models` is the official code repository for the renowned O'Reilly book, 'Hands-On Large Language Models,' and it's racked up an impressive ⭐16.6k stars. It provides readers with a complete set of practical code to build and understand large language models from scratch, making it the ultimate textbook for combining theory with practice 📚. Want to peel back the mysterious veil of LLMs yourself? Then [start with this project](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)!
+
+3.  Want to turn your e-books into audiobooks? The `ebook2audiobook` project makes it a breeze, attracting ⭐11.8k stars on GitHub thanks to its powerful features. It not only supports **voice cloning**, letting you listen to books in familiar voices, but also covers over **1107 languages** – truly a godsend for book lovers 🎧. Go ahead and check out [its codebase](https://github.com/DrewThomasson/ebook2audiobook) to give your eyes a break!
+
+4.  `storybook` is widely recognized as the 'armory' of frontend development, allowing developers to build, test, and document UI components in isolation. It currently boasts an astonishing ⭐88k stars. This tool significantly boosts development efficiency and component quality, making the creation of complex UIs as simple and fun as building with LEGOs 🎨. Every UI developer should definitely take a look at [this industry-standard project](https://github.com/storybookjs/storybook).
+
+5.  Looking to equip your personal world with a powerful AI smart assistant? The `deepchat` project was born for exactly that, aiming to securely connect top-tier AI models with your personal data 🤖. This [smart assistant project](https://github.com/ThinkInAIXYZ/deepchat), which has earned ⭐4.3k stars on GitHub, is all about creating a truly private AI companion that genuinely understands you. Imagine having a super-brain dedicated solely to your needs – how cool is that?
+
+6.  `deepdarkCTI` is a treasure trove repository specifically dedicated to collecting cyber threat intelligence from the **deep and dark web**, making it invaluable for cybersecurity professionals. This project has secured ⭐5.8k stars on GitHub, providing security analysts and white-hat hackers with crucial 'frontline reports' 🕵️‍♂️. By leveraging [this open-source intelligence source](https://github.com/fastfire/deepdarkCTI), you can gain a deeper understanding of the threats lurking in the internet's shadows.
+
+### Social Media Shares
+
+1.  Claude Code's potential extends far beyond just writing code; it's a powerful general-purpose agent! A list containing **over 20 advanced use cases** is currently going viral 🔥. From 'mentor-style' programming with custom output formats, to integrating with Telegram for alerts, and even automatically generating SEO traffic, these tricks will absolutely revolutionize your workflow. Go check out this [ultimate application guide](https://x.com/shao__meng/status/1979211629914132700) to unleash Claude's full power!
+    <br/>![AI News: Claude Code Advanced Usage Examples](https://source.hubtoday.app/images/2025/10/news_01k7vy9tpte9yre8e3s9q0sw2g.avif)
+    <br/>![AI News: Claude Code Application Cases](https://source.hubtoday.app/images/2025/10/news_01k7vy9ykyfrd8vjbx5v7vcr1v.avif)
+
+2.  Why do we dream? 🤔 A brilliant hypothesis from *Cell* suggests that dreams are an evolutionary mechanism to **prevent the brain from 'overfitting' to real life** 🤯. By injecting bizarre, incoherent 'noise' into dreams, the brain is forced to learn more generalized representations instead of rote memorization of daytime experiences. This [thought-provoking post](https://m.okjike.com/originalPosts/68f36542cc3970b79da16cc8) explains that the unreality of dreams is precisely their greatest value.
+
+3.  The Chinese translation project for the important work 'Agent Design Patterns' is seeing a surge in popularity on GitHub, having already garnered over ⭐1.2k stars and formed a dedicated reading and discussion group 🌟. The project initiators invite everyone interested in AI Agents to join, discuss insights, and even participate in future live events. Because reading alone is nowhere near as good as discussing in a group, jump into this feast of knowledge via [this translation project](https://x.com/hongming731/status/1979368036399485145)!
+    <br/>![AI News: Project GitHub Star Count Screenshot](https://source.hubtoday.app/images/2025/10/news_01k7vya76reatvt52hba4vwx67.avif)
+
+4.  AI chefs are battling it out online: whose braised pork belly do you prefer? 🤤 An interesting post asks netizens: which video of braised pork, generated by **veo3.1** or **sora 2 pro**, makes your mouth water more? This unique 'cooking competition' isn't just mouth-watering; it also vividly demonstrates the astonishing capabilities of top-tier video generation models. Come [check out this showdown](https://x.com/vista8/status/1979485269549371745) and crown your AI food god!
+    <br/><video src="https://source.hubtoday.app/images/2025/10/news_01k7vyaf8ke3fbvrcc9prq4rga.mp4" controls="controls" width="100%"></video>
 
 ---
 
-**Wrapping Up:**
+**Final Thoughts:**
 
-Thanks for taking the time to read this article! If it sparked even a tiny bit of inspiration:
+Thanks for taking the time to read this article! If it sparked even a little inspiration:
 
-- 💬 **Join Our Community** to share your thoughts – every piece of feedback is priceless!
+- 🚀 **[Join the Community Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)** and share your ideas – your feedback is incredibly valuable.
 
-Looking forward to connecting with you! 👋
+Looking forward to connecting with you further!
 
-| **Hexi 2077 Community - Limited Time Access** |
-| --------------------------------------------- |
-| ![Join the Community](https://source.hubtoday.app/logo/wechat-qun.jpg) |
+| **Hexi 2077 Community Chat - Limited Time Opening** |
+| -------------------------------------------------- |
+| ![Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg) |
 
 ---
 
-## **AI News Daily Voice Version**
+## **AI News Daily Audio Version**
 
-| 🎙️ **Xiaoyuzhou FM** | 📹 **Douyin** |
+| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
 | --- | --- |
-| [Lai Sheng Small Pub](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Official Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Small Pub](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [Laisheng Little Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Little Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
