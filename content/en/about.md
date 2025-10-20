@@ -4,23 +4,23 @@ type: about
 sidebar:
   exclude: true
 ---
-#### HeXi2077 / justlovemaki
+#### Hexi 2077 / justlovemaki
 
-> Ten years of coding, fingertips grown numb, a silent angst within.
-> Then, the AI storm began to hum, I'm ready for the fight to win!
+> A decade of code, fingertips growing cold, a simmering passion held deep inside.
+> But then, the storm of AI roared to life, and I swore to fight for a spot in the digital sky!
 
 #### My Code Philosophy
 
-> Tech for the People!
+> Tech for the people, always!
 
-#### 🚀 Featured Projects
+#### My Signature Projects 👇
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   It's an AI image generation script, powered by Cloudflare Workers.
+    *   This open-source project is an AI image generation script, expertly powered by Cloudflare Workers.
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   This platform, supercharged by Cloudflare Workers, aggregates and generates content. Every day, it dishes out the freshest AI insights just for you, covering industry news, hot open-source projects, cutting-edge academic papers, and even social media buzz from big-shot tech influencers!
-*   For more project details, hit up my [GitHub](https://github.com/justlovemaki).
+    *   This content aggregation and generation platform, supercharged by Cloudflare Workers, delivers your daily dose of the latest AI buzz! It curates industry news, hot open-source projects, cutting-edge academic papers, and even insights from tech bigwigs' social media.
+*   My [GitHub](https://github.com/justlovemaki) is where you'll find even more juicy project details!
 
-#### 🌱 What I'm Digging Into Now
+#### What I'm Diving Into Now 👇
 
-I'm super keen on LLM applications and website SEO right now, totally diving deep into learning and hands-on practice.
+LLM applications and website SEO are currently what I'm super passionate about, and I'm actively learning and putting them into practice!
