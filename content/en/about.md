@@ -6,23 +6,21 @@ sidebar:
 ---
 #### 何夕2077 / justlovemaki
 
-> A decade of code, fingertips now cool,
-> Ambitions deep, yet to fully bloom.
-> But now, the AI storm breaks,
-> I'm ready to seize the skies and make my mark!
+Ten years, code on my fingertips, and my heart's got a knot, still unspoken.
+But then I hear the AI storm brewing... time to dive in and make some waves! ⚡️
 
-#### My Code Philosophy 💡
+#### My Coding Vibe
 
-> Technology for the people.
+Tech for the people!
 
-#### Standout Projects ✨
+#### My Stellar Creations
 
 *   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   This project is an AI image generation script, powered by Cloudflare Workers.
+    *   A slick AI image generation script, powered by Cloudflare Workers.
 *   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   Powered by Cloudflare Workers, this platform excels at content aggregation and generation. It curates the latest in the AI world daily, including industry news, trending open-source projects, cutting-edge academic papers, and insights from tech thought leaders on social media.
-*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
+    *   This platform is a content aggregation and generation powerhouse, all running on Cloudflare Workers. It dishes out the latest AI buzz daily, from industry news and hot open-source projects to cutting-edge academic papers and tech guru social media takes. 🔥
+*   Wanna dig into more projects? Hit up my [GitHub](https://github.com/justlovemaki)!
 
-#### Current Explorations 🤔
+#### What I'm Diving Into Now
 
-> My current focus? I'm super keen on LLM applications and website SEO, actively diving into learning and getting my hands dirty with both!
+Right now, I'm super hyped about LLM applications and website SEO. I'm deep-diving into learning and getting my hands dirty with practical stuff. 🤓
