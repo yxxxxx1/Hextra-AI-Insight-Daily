@@ -4,23 +4,23 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hey there 👋, Hexi 2077 / justlovemaki
+#### 👋 Hexi 2077 / justlovemaki
 
-A decade of coding, fingertips often chilled, thoughts unspilled.
-Then, a sudden roar of AI, and I vowed to give it my all, reaching for the sky!
+> For a decade, code chilled my fingertips, my heart's frustrations unexpressed.
+> Then, AI's storm suddenly stirred; I vowed to tackle the skies head-on, to give it my best shot!
 
-#### My Code Philosophy 🚀
+#### 🚀 My Code Philosophy
 
-Tech for the people, always!
+> Tech for the People!
 
-#### Featured Projects ✨
+#### ✨ Key Projects
 
-*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   CloudFlare-AI-Image is an AI image generation script powered by Cloudflare Workers.
-*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   CloudFlare-AI-Insight-Daily is a content aggregation and generation platform driven by Cloudflare Workers. It daily curates the latest and greatest in AI for you, including industry news, trending open-source projects, cutting-edge academic papers, and hot takes from tech influencers on social media.
-*   Wanna see more projects? Check out my [GitHub](https://github.com/justlovemaki).
+*   **[Open Source Contribution / CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
+    *   An AI image generation script powered by Cloudflare Workers.
+*   **[Open Source Contribution / CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
+    *   This content aggregation and generation platform, driven by Cloudflare Workers, daily curates the latest AI buzz for you. Think industry news, hot open-source projects, cutting-edge academic papers, and even social media gems from the biggest tech influencers!
+*   For more project details, dive into my [GitHub](https://github.com/justlovemaki).
 
-#### Current Explorations 🌱
+#### 🌱 What I'm Exploring Now
 
-I'm super into LLM apps and website SEO, actively diving deep into learning and hands-on practice.
+I'm super keen on LLM applications and website SEO, and I'm actively diving deep into learning and putting them into practice.
